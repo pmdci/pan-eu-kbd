@@ -1,3 +1,6 @@
+# PMDCI Pan–European Keyboard Layout
+This layout builds on And Dover's excellent Pan European Keyboard Layout ([doxdesk](https://www.doxdesk.com/)), with some crucial tweaks to better suit users accustomed to the US International layout.
+
 ## Background
 
 I needed a keyboard layout that supports multiple European languages.
