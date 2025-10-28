@@ -1,0 +1,3325 @@
+<?xml version="1.1" encoding="utf-8"?>
+<!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
+<!--Last edited by KbdEdit version 25.1.0 3483-3636 on 2025-10-28 at 22:44 (GMT+0)-->
+<keyboard group="126" id="-20043" maxout="1" name="Pan–European keyboard layout (UK)">
+	<layouts>
+		<layout first="0" last="0" mapSet="16c" modifiers="f4"/>
+	</layouts>
+	<modifierMap id="f4" defaultIndex="0">
+		<keyMapSelect mapIndex="0">
+			<modifier keys=""/>
+		</keyMapSelect>
+		<keyMapSelect mapIndex="1">
+			<modifier keys="caps"/>
+		</keyMapSelect>
+		<keyMapSelect mapIndex="2">
+			<modifier keys="anyShift"/>
+		</keyMapSelect>
+		<keyMapSelect mapIndex="3">
+			<modifier keys="caps anyShift"/>
+		</keyMapSelect>
+		<keyMapSelect mapIndex="4">
+			<modifier keys="anyControl"/>
+		</keyMapSelect>
+		<keyMapSelect mapIndex="5">
+			<modifier keys="anyOption"/>
+		</keyMapSelect>
+		<keyMapSelect mapIndex="6">
+			<modifier keys="anyOption caps"/>
+		</keyMapSelect>
+		<keyMapSelect mapIndex="7">
+			<modifier keys="anyOption anyShift"/>
+		</keyMapSelect>
+		<keyMapSelect mapIndex="8">
+			<modifier keys="anyOption caps anyShift"/>
+		</keyMapSelect>
+	</modifierMap>
+	<keyMapSet id="16c">
+		<keyMap index="0">
+			<key code="0" action="a"/>
+			<key code="1" action="s"/>
+			<key code="2" action="d"/>
+			<key code="3" action="f"/>
+			<key code="4" action="h"/>
+			<key code="5" action="g"/>
+			<key code="6" action="z"/>
+			<key code="7" action="x"/>
+			<key code="8" action="c"/>
+			<key code="9" action="v"/>
+			<key code="10" action="\"/>
+			<key code="11" action="b"/>
+			<key code="12" action="q"/>
+			<key code="13" action="w"/>
+			<key code="14" action="e"/>
+			<key code="15" action="r"/>
+			<key code="16" action="y"/>
+			<key code="17" action="t"/>
+			<key code="18" action="1"/>
+			<key code="19" action="2"/>
+			<key code="20" action="3"/>
+			<key code="21" action="4"/>
+			<key code="22" action="6"/>
+			<key code="23" action="5"/>
+			<key code="24" action="="/>
+			<key code="25" action="9"/>
+			<key code="26" action="7"/>
+			<key code="27" action="-"/>
+			<key code="28" action="8"/>
+			<key code="29" action="0"/>
+			<key code="30" action="]"/>
+			<key code="31" action="o"/>
+			<key code="32" action="u"/>
+			<key code="33" action="["/>
+			<key code="34" action="i"/>
+			<key code="35" action="p"/>
+			<key code="36" output="&#x000D;"/>
+			<key code="37" action="l"/>
+			<key code="38" action="j"/>
+			<key code="39" action="'"/>
+			<key code="40" action="k"/>
+			<key code="41" action=";"/>
+			<key code="42" output="#"/>
+			<key code="43" action=","/>
+			<key code="44" action="/"/>
+			<key code="45" action="n"/>
+			<key code="46" action="m"/>
+			<key code="47" action="."/>
+			<key code="48" output="&#x0009;"/>
+			<key code="49" action=" "/>
+			<key code="50" output="`"/>
+			<key code="51" output="&#x0008;"/>
+			<key code="53" output="&#x001B;"/>
+			<key code="65" action="."/>
+			<key code="67" action="*"/>
+			<key code="69" action="+"/>
+			<key code="71" output="&#x001B;"/>
+			<key code="75" action="/"/>
+			<key code="76" output="&#x000D;"/>
+			<key code="78" action="-"/>
+			<key code="81" output="="/>
+			<key code="82" action="0"/>
+			<key code="83" action="1"/>
+			<key code="84" action="2"/>
+			<key code="85" action="3"/>
+			<key code="86" action="4"/>
+			<key code="87" action="5"/>
+			<key code="88" action="6"/>
+			<key code="89" action="7"/>
+			<key code="91" action="8"/>
+			<key code="92" action="9"/>
+			<key code="96" output="&#x0010;"/>
+			<key code="97" output="&#x0010;"/>
+			<key code="98" output="&#x0010;"/>
+			<key code="99" output="&#x0010;"/>
+			<key code="100" output="&#x0010;"/>
+			<key code="101" output="&#x0010;"/>
+			<key code="103" output="&#x0010;"/>
+			<key code="105" output="&#x0010;"/>
+			<key code="106" output="&#x0010;"/>
+			<key code="107" output="&#x0010;"/>
+			<key code="109" output="&#x0010;"/>
+			<key code="111" output="&#x0010;"/>
+			<key code="113" output="&#x0010;"/>
+			<key code="114" output="&#x0005;"/>
+			<key code="115" output="&#x0001;"/>
+			<key code="116" output="&#x000B;"/>
+			<key code="117" output="&#x007F;"/>
+			<key code="118" output="&#x0010;"/>
+			<key code="119" output="&#x0004;"/>
+			<key code="120" output="&#x0010;"/>
+			<key code="121" output="&#x000C;"/>
+			<key code="122" output="&#x0010;"/>
+			<key code="123" output="&#x001C;"/>
+			<key code="124" output="&#x001D;"/>
+			<key code="125" output="&#x001F;"/>
+			<key code="126" output="&#x001E;"/>
+		</keyMap>
+		<keyMap index="1">
+			<key code="0" action="A"/>
+			<key code="1" action="S"/>
+			<key code="2" action="D"/>
+			<key code="3" action="F"/>
+			<key code="4" action="H"/>
+			<key code="5" action="G"/>
+			<key code="6" action="Z"/>
+			<key code="7" action="X"/>
+			<key code="8" action="C"/>
+			<key code="9" action="V"/>
+			<key code="10" action="\"/>
+			<key code="11" action="B"/>
+			<key code="12" action="Q"/>
+			<key code="13" action="W"/>
+			<key code="14" action="E"/>
+			<key code="15" action="R"/>
+			<key code="16" action="Y"/>
+			<key code="17" action="T"/>
+			<key code="18" action="1"/>
+			<key code="19" action="2"/>
+			<key code="20" action="3"/>
+			<key code="21" action="4"/>
+			<key code="22" action="6"/>
+			<key code="23" action="5"/>
+			<key code="24" action="="/>
+			<key code="25" action="9"/>
+			<key code="26" action="7"/>
+			<key code="27" action="-"/>
+			<key code="28" action="8"/>
+			<key code="29" action="0"/>
+			<key code="30" action="]"/>
+			<key code="31" action="O"/>
+			<key code="32" action="U"/>
+			<key code="33" action="["/>
+			<key code="34" action="I"/>
+			<key code="35" action="P"/>
+			<key code="36" output="&#x000D;"/>
+			<key code="37" action="L"/>
+			<key code="38" action="J"/>
+			<key code="39" action="'"/>
+			<key code="40" action="K"/>
+			<key code="41" action=";"/>
+			<key code="42" output="#"/>
+			<key code="43" action=","/>
+			<key code="44" action="/"/>
+			<key code="45" action="N"/>
+			<key code="46" action="M"/>
+			<key code="47" action="."/>
+			<key code="48" output="&#x0009;"/>
+			<key code="49" action=" "/>
+			<key code="50" output="`"/>
+			<key code="51" output="&#x0008;"/>
+			<key code="53" output="&#x001B;"/>
+			<key code="65" action="."/>
+			<key code="67" action="*"/>
+			<key code="69" action="+"/>
+			<key code="71" output="&#x001B;"/>
+			<key code="75" action="/"/>
+			<key code="76" output="&#x000D;"/>
+			<key code="78" action="-"/>
+			<key code="81" output="="/>
+			<key code="82" action="0"/>
+			<key code="83" action="1"/>
+			<key code="84" action="2"/>
+			<key code="85" action="3"/>
+			<key code="86" action="4"/>
+			<key code="87" action="5"/>
+			<key code="88" action="6"/>
+			<key code="89" action="7"/>
+			<key code="91" action="8"/>
+			<key code="92" action="9"/>
+			<key code="96" output="&#x0010;"/>
+			<key code="97" output="&#x0010;"/>
+			<key code="98" output="&#x0010;"/>
+			<key code="99" output="&#x0010;"/>
+			<key code="100" output="&#x0010;"/>
+			<key code="101" output="&#x0010;"/>
+			<key code="103" output="&#x0010;"/>
+			<key code="105" output="&#x0010;"/>
+			<key code="106" output="&#x0010;"/>
+			<key code="107" output="&#x0010;"/>
+			<key code="109" output="&#x0010;"/>
+			<key code="111" output="&#x0010;"/>
+			<key code="113" output="&#x0010;"/>
+			<key code="114" output="&#x0005;"/>
+			<key code="115" output="&#x0001;"/>
+			<key code="116" output="&#x000B;"/>
+			<key code="117" output="&#x007F;"/>
+			<key code="118" output="&#x0010;"/>
+			<key code="119" output="&#x0004;"/>
+			<key code="120" output="&#x0010;"/>
+			<key code="121" output="&#x000C;"/>
+			<key code="122" output="&#x0010;"/>
+			<key code="123" output="&#x001C;"/>
+			<key code="124" output="&#x001D;"/>
+			<key code="125" output="&#x001F;"/>
+			<key code="126" output="&#x001E;"/>
+		</keyMap>
+		<keyMap index="2">
+			<key code="0" action="A"/>
+			<key code="1" action="S"/>
+			<key code="2" action="D"/>
+			<key code="3" action="F"/>
+			<key code="4" action="H"/>
+			<key code="5" action="G"/>
+			<key code="6" action="Z"/>
+			<key code="7" action="X"/>
+			<key code="8" action="C"/>
+			<key code="9" action="V"/>
+			<key code="10" action="|"/>
+			<key code="11" action="B"/>
+			<key code="12" action="Q"/>
+			<key code="13" action="W"/>
+			<key code="14" action="E"/>
+			<key code="15" action="R"/>
+			<key code="16" action="Y"/>
+			<key code="17" action="T"/>
+			<key code="18" action="!"/>
+			<key code="19" action='"'/>
+			<key code="20" action="£"/>
+			<key code="21" action="$"/>
+			<key code="22" action="^"/>
+			<key code="23" action="%"/>
+			<key code="24" action="+"/>
+			<key code="25" action="("/>
+			<key code="26" action="&#x0026;"/>
+			<key code="27" action="_"/>
+			<key code="28" action="*"/>
+			<key code="29" action=")"/>
+			<key code="30" action="}"/>
+			<key code="31" action="O"/>
+			<key code="32" action="U"/>
+			<key code="33" action="{"/>
+			<key code="34" action="I"/>
+			<key code="35" action="P"/>
+			<key code="36" output="&#x000D;"/>
+			<key code="37" action="L"/>
+			<key code="38" action="J"/>
+			<key code="39" action="@"/>
+			<key code="40" action="K"/>
+			<key code="41" action=":"/>
+			<key code="42" action="~"/>
+			<key code="43" action="&#x003C;"/>
+			<key code="44" action="?"/>
+			<key code="45" action="N"/>
+			<key code="46" action="M"/>
+			<key code="47" action="&#x003E;"/>
+			<key code="48" output="&#x0009;"/>
+			<key code="49" action=" "/>
+			<key code="50" output="¬"/>
+			<key code="51" output="&#x0008;"/>
+			<key code="53" output="&#x001B;"/>
+			<key code="65" action="."/>
+			<key code="67" action="*"/>
+			<key code="69" action="+"/>
+			<key code="71" output="&#x001B;"/>
+			<key code="75" action="/"/>
+			<key code="76" output="&#x000D;"/>
+			<key code="78" action="-"/>
+			<key code="81" output="="/>
+			<key code="96" output="&#x0010;"/>
+			<key code="97" output="&#x0010;"/>
+			<key code="98" output="&#x0010;"/>
+			<key code="99" output="&#x0010;"/>
+			<key code="100" output="&#x0010;"/>
+			<key code="101" output="&#x0010;"/>
+			<key code="103" output="&#x0010;"/>
+			<key code="105" output="&#x0010;"/>
+			<key code="106" output="&#x0010;"/>
+			<key code="107" output="&#x0010;"/>
+			<key code="109" output="&#x0010;"/>
+			<key code="111" output="&#x0010;"/>
+			<key code="113" output="&#x0010;"/>
+			<key code="114" output="&#x0005;"/>
+			<key code="115" output="&#x0001;"/>
+			<key code="116" output="&#x000B;"/>
+			<key code="117" output="&#x007F;"/>
+			<key code="118" output="&#x0010;"/>
+			<key code="119" output="&#x0004;"/>
+			<key code="120" output="&#x0010;"/>
+			<key code="121" output="&#x000C;"/>
+			<key code="122" output="&#x0010;"/>
+			<key code="123" output="&#x001C;"/>
+			<key code="124" output="&#x001D;"/>
+			<key code="125" output="&#x001F;"/>
+			<key code="126" output="&#x001E;"/>
+		</keyMap>
+		<keyMap index="3">
+			<key code="0" action="a"/>
+			<key code="1" action="s"/>
+			<key code="2" action="d"/>
+			<key code="3" action="f"/>
+			<key code="4" action="h"/>
+			<key code="5" action="g"/>
+			<key code="6" action="z"/>
+			<key code="7" action="x"/>
+			<key code="8" action="c"/>
+			<key code="9" action="v"/>
+			<key code="10" action="|"/>
+			<key code="11" action="b"/>
+			<key code="12" action="q"/>
+			<key code="13" action="w"/>
+			<key code="14" action="e"/>
+			<key code="15" action="r"/>
+			<key code="16" action="y"/>
+			<key code="17" action="t"/>
+			<key code="18" action="!"/>
+			<key code="19" action='"'/>
+			<key code="20" action="£"/>
+			<key code="21" action="$"/>
+			<key code="22" action="^"/>
+			<key code="23" action="%"/>
+			<key code="24" action="+"/>
+			<key code="25" action="("/>
+			<key code="26" action="&#x0026;"/>
+			<key code="27" action="_"/>
+			<key code="28" action="*"/>
+			<key code="29" action=")"/>
+			<key code="30" action="}"/>
+			<key code="31" action="o"/>
+			<key code="32" action="u"/>
+			<key code="33" action="{"/>
+			<key code="34" action="i"/>
+			<key code="35" action="p"/>
+			<key code="36" output="&#x000D;"/>
+			<key code="37" action="l"/>
+			<key code="38" action="j"/>
+			<key code="39" action="@"/>
+			<key code="40" action="k"/>
+			<key code="41" action=":"/>
+			<key code="42" action="~"/>
+			<key code="43" action="&#x003C;"/>
+			<key code="44" action="?"/>
+			<key code="45" action="n"/>
+			<key code="46" action="m"/>
+			<key code="47" action="&#x003E;"/>
+			<key code="48" output="&#x0009;"/>
+			<key code="49" action=" "/>
+			<key code="50" output="¬"/>
+			<key code="51" output="&#x0008;"/>
+			<key code="53" output="&#x001B;"/>
+			<key code="65" action="."/>
+			<key code="67" action="*"/>
+			<key code="69" action="+"/>
+			<key code="71" output="&#x001B;"/>
+			<key code="75" action="/"/>
+			<key code="76" output="&#x000D;"/>
+			<key code="78" action="-"/>
+			<key code="81" output="="/>
+			<key code="96" output="&#x0010;"/>
+			<key code="97" output="&#x0010;"/>
+			<key code="98" output="&#x0010;"/>
+			<key code="99" output="&#x0010;"/>
+			<key code="100" output="&#x0010;"/>
+			<key code="101" output="&#x0010;"/>
+			<key code="103" output="&#x0010;"/>
+			<key code="105" output="&#x0010;"/>
+			<key code="106" output="&#x0010;"/>
+			<key code="107" output="&#x0010;"/>
+			<key code="109" output="&#x0010;"/>
+			<key code="111" output="&#x0010;"/>
+			<key code="113" output="&#x0010;"/>
+			<key code="114" output="&#x0005;"/>
+			<key code="115" output="&#x0001;"/>
+			<key code="116" output="&#x000B;"/>
+			<key code="117" output="&#x007F;"/>
+			<key code="118" output="&#x0010;"/>
+			<key code="119" output="&#x0004;"/>
+			<key code="120" output="&#x0010;"/>
+			<key code="121" output="&#x000C;"/>
+			<key code="122" output="&#x0010;"/>
+			<key code="123" output="&#x001C;"/>
+			<key code="124" output="&#x001D;"/>
+			<key code="125" output="&#x001F;"/>
+			<key code="126" output="&#x001E;"/>
+		</keyMap>
+		<keyMap index="4">
+			<key code="10" output="&#x001C;"/>
+			<key code="30" output="&#x001D;"/>
+			<key code="33" output="&#x001B;"/>
+			<key code="36" output="&#x000A;"/>
+			<key code="42" output="&#x001C;"/>
+			<key code="49" action=" "/>
+			<key code="51" output="&#x007F;"/>
+			<key code="53" output="&#x001B;"/>
+			<key code="71" output="&#x001B;"/>
+			<key code="76" output="&#x000A;"/>
+			<key code="81" output="="/>
+			<key code="96" output="&#x0010;"/>
+			<key code="97" output="&#x0010;"/>
+			<key code="98" output="&#x0010;"/>
+			<key code="99" output="&#x0010;"/>
+			<key code="100" output="&#x0010;"/>
+			<key code="101" output="&#x0010;"/>
+			<key code="103" output="&#x0010;"/>
+			<key code="105" output="&#x0010;"/>
+			<key code="106" output="&#x0010;"/>
+			<key code="107" output="&#x0010;"/>
+			<key code="109" output="&#x0010;"/>
+			<key code="111" output="&#x0010;"/>
+			<key code="113" output="&#x0010;"/>
+			<key code="114" output="&#x0005;"/>
+			<key code="115" output="&#x0001;"/>
+			<key code="116" output="&#x000B;"/>
+			<key code="117" output="&#x007F;"/>
+			<key code="118" output="&#x0010;"/>
+			<key code="119" output="&#x0004;"/>
+			<key code="120" output="&#x0010;"/>
+			<key code="121" output="&#x000C;"/>
+			<key code="122" output="&#x0010;"/>
+			<key code="123" output="&#x001C;"/>
+			<key code="124" output="&#x001D;"/>
+			<key code="125" output="&#x001F;"/>
+			<key code="126" output="&#x001E;"/>
+		</keyMap>
+		<keyMap index="5">
+			<key code="0" action="Entering LATIN SMALL LETTER A"/>
+			<key code="1" action="Entering LATIN SMALL LETTER S"/>
+			<key code="2" action="Entering LATIN SMALL LETTER D"/>
+			<key code="3" action="Entering LATIN SMALL LETTER F"/>
+			<key code="4" action="Entering LATIN SMALL LETTER H"/>
+			<key code="5" action="Entering LATIN SMALL LETTER G"/>
+			<key code="6" action="Entering LATIN SMALL LETTER Z"/>
+			<key code="7" action="Entering LATIN SMALL LETTER X"/>
+			<key code="8" action="Entering LATIN SMALL LETTER C"/>
+			<key code="9" action="Entering LATIN SMALL LETTER V"/>
+			<key code="10" action="Entering DIAERESIS"/>
+			<key code="11" action="Entering LATIN SMALL LETTER B"/>
+			<key code="12" action="Entering LATIN SMALL LETTER Q"/>
+			<key code="13" action="Entering LATIN SMALL LETTER W"/>
+			<key code="14" action="Entering LATIN SMALL LETTER E"/>
+			<key code="15" action="Entering LATIN SMALL LETTER R"/>
+			<key code="16" action="Entering LATIN SMALL LETTER Y"/>
+			<key code="17" action="Entering LATIN SMALL LETTER T"/>
+			<key code="18" action="Entering DIGIT ONE"/>
+			<key code="19" action="Entering DIGIT TWO"/>
+			<key code="20" action="Entering DIGIT THREE"/>
+			<key code="21" action="Entering DIGIT FOUR"/>
+			<key code="22" action="Entering DIGIT SIX"/>
+			<key code="23" action="Entering DIGIT FIVE"/>
+			<key code="24" action="Entering INVERTED EXCLAMATION MARK"/>
+			<key code="25" action="Entering DIGIT NINE"/>
+			<key code="26" action="Entering DIGIT SEVEN"/>
+			<key code="27" action="–"/>
+			<key code="28" action="Entering DIGIT EIGHT"/>
+			<key code="29" action="Entering DIGIT ZERO"/>
+			<key code="30" action="’"/>
+			<key code="31" action="Entering LATIN SMALL LETTER O"/>
+			<key code="32" action="Entering LATIN SMALL LETTER U"/>
+			<key code="33" action="‘"/>
+			<key code="34" action="Entering LATIN SMALL LETTER I"/>
+			<key code="35" action="Entering LATIN SMALL LETTER P"/>
+			<key code="37" action="Entering LATIN SMALL LETTER L"/>
+			<key code="38" action="Entering LATIN SMALL LETTER J"/>
+			<key code="39" action="Entering ACUTE ACCENT"/>
+			<key code="40" action="Entering LATIN SMALL LETTER K"/>
+			<key code="41" action="‚"/>
+			<key code="42" action="·"/>
+			<key code="43" action="‹"/>
+			<key code="44" action="Entering DIVISION SIGN"/>
+			<key code="45" action="Entering LATIN SMALL LETTER N"/>
+			<key code="46" action="Entering LATIN SMALL LETTER M"/>
+			<key code="47" action="›"/>
+			<key code="49" action="Entering SPACE"/>
+			<key code="50" action="Entering BROKEN BAR"/>
+			<key code="65" action="."/>
+			<key code="71" output="&#x001B;"/>
+			<key code="81" output="="/>
+			<key code="96" output="&#x0010;"/>
+			<key code="97" output="&#x0010;"/>
+			<key code="98" output="&#x0010;"/>
+			<key code="99" output="&#x0010;"/>
+			<key code="100" output="&#x0010;"/>
+			<key code="101" output="&#x0010;"/>
+			<key code="103" output="&#x0010;"/>
+			<key code="105" output="&#x0010;"/>
+			<key code="106" output="&#x0010;"/>
+			<key code="107" output="&#x0010;"/>
+			<key code="109" output="&#x0010;"/>
+			<key code="111" output="&#x0010;"/>
+			<key code="113" output="&#x0010;"/>
+			<key code="114" output="&#x0005;"/>
+			<key code="115" output="&#x0001;"/>
+			<key code="116" output="&#x000B;"/>
+			<key code="117" output="&#x007F;"/>
+			<key code="118" output="&#x0010;"/>
+			<key code="119" output="&#x0004;"/>
+			<key code="120" output="&#x0010;"/>
+			<key code="121" output="&#x000C;"/>
+			<key code="122" output="&#x0010;"/>
+			<key code="123" output="&#x001C;"/>
+			<key code="124" output="&#x001D;"/>
+			<key code="125" output="&#x001F;"/>
+			<key code="126" output="&#x001E;"/>
+		</keyMap>
+		<keyMap index="6">
+			<key code="0" action="Entering LATIN CAPITAL LETTER A"/>
+			<key code="1" action="Entering LATIN CAPITAL LETTER S"/>
+			<key code="2" action="Entering LATIN CAPITAL LETTER D"/>
+			<key code="3" action="Entering LATIN CAPITAL LETTER F"/>
+			<key code="4" action="Entering LATIN CAPITAL LETTER H"/>
+			<key code="5" action="Entering LATIN CAPITAL LETTER G"/>
+			<key code="6" action="Entering LATIN CAPITAL LETTER Z"/>
+			<key code="7" action="Entering LATIN CAPITAL LETTER X"/>
+			<key code="8" action="Entering LATIN CAPITAL LETTER C"/>
+			<key code="9" action="Entering LATIN CAPITAL LETTER V"/>
+			<key code="10" action="Entering DIAERESIS"/>
+			<key code="11" action="Entering LATIN CAPITAL LETTER B"/>
+			<key code="12" action="Entering LATIN CAPITAL LETTER Q"/>
+			<key code="13" action="Entering LATIN CAPITAL LETTER W"/>
+			<key code="14" action="Entering LATIN CAPITAL LETTER E"/>
+			<key code="15" action="Entering LATIN CAPITAL LETTER R"/>
+			<key code="16" action="Entering LATIN CAPITAL LETTER Y"/>
+			<key code="17" action="Entering LATIN CAPITAL LETTER T"/>
+			<key code="18" action="Entering DIGIT ONE"/>
+			<key code="19" action="Entering DIGIT TWO"/>
+			<key code="20" action="Entering DIGIT THREE"/>
+			<key code="21" action="Entering DIGIT FOUR"/>
+			<key code="22" action="Entering DIGIT SIX"/>
+			<key code="23" action="Entering DIGIT FIVE"/>
+			<key code="24" action="Entering INVERTED EXCLAMATION MARK"/>
+			<key code="25" action="Entering DIGIT NINE"/>
+			<key code="26" action="Entering DIGIT SEVEN"/>
+			<key code="27" action="–"/>
+			<key code="28" action="Entering DIGIT EIGHT"/>
+			<key code="29" action="Entering DIGIT ZERO"/>
+			<key code="30" action="’"/>
+			<key code="31" action="Entering LATIN CAPITAL LETTER O"/>
+			<key code="32" action="Entering LATIN CAPITAL LETTER U"/>
+			<key code="33" action="‘"/>
+			<key code="34" action="Entering LATIN CAPITAL LETTER I"/>
+			<key code="35" action="Entering LATIN CAPITAL LETTER P"/>
+			<key code="37" action="Entering LATIN CAPITAL LETTER L"/>
+			<key code="38" action="Entering LATIN CAPITAL LETTER J"/>
+			<key code="39" action="Entering ACUTE ACCENT"/>
+			<key code="40" action="Entering LATIN CAPITAL LETTER K"/>
+			<key code="41" action="‚"/>
+			<key code="42" action="·"/>
+			<key code="43" action="‹"/>
+			<key code="44" action="Entering DIVISION SIGN"/>
+			<key code="45" action="Entering LATIN CAPITAL LETTER N"/>
+			<key code="46" action="Entering LATIN CAPITAL LETTER M"/>
+			<key code="47" action="›"/>
+			<key code="49" action="Entering SPACE"/>
+			<key code="50" action="Entering BROKEN BAR"/>
+			<key code="65" action="."/>
+			<key code="71" output="&#x001B;"/>
+			<key code="81" output="="/>
+			<key code="96" output="&#x0010;"/>
+			<key code="97" output="&#x0010;"/>
+			<key code="98" output="&#x0010;"/>
+			<key code="99" output="&#x0010;"/>
+			<key code="100" output="&#x0010;"/>
+			<key code="101" output="&#x0010;"/>
+			<key code="103" output="&#x0010;"/>
+			<key code="105" output="&#x0010;"/>
+			<key code="106" output="&#x0010;"/>
+			<key code="107" output="&#x0010;"/>
+			<key code="109" output="&#x0010;"/>
+			<key code="111" output="&#x0010;"/>
+			<key code="113" output="&#x0010;"/>
+			<key code="114" output="&#x0005;"/>
+			<key code="115" output="&#x0001;"/>
+			<key code="116" output="&#x000B;"/>
+			<key code="117" output="&#x007F;"/>
+			<key code="118" output="&#x0010;"/>
+			<key code="119" output="&#x0004;"/>
+			<key code="120" output="&#x0010;"/>
+			<key code="121" output="&#x000C;"/>
+			<key code="122" output="&#x0010;"/>
+			<key code="123" output="&#x001C;"/>
+			<key code="124" output="&#x001D;"/>
+			<key code="125" output="&#x001F;"/>
+			<key code="126" output="&#x001E;"/>
+		</keyMap>
+		<keyMap index="7">
+			<key code="0" action="Entering LATIN CAPITAL LETTER A"/>
+			<key code="1" action="Entering LATIN CAPITAL LETTER S"/>
+			<key code="2" action="Entering LATIN CAPITAL LETTER D"/>
+			<key code="3" action="Entering LATIN CAPITAL LETTER F"/>
+			<key code="4" action="Entering LATIN CAPITAL LETTER H"/>
+			<key code="5" action="Entering LATIN CAPITAL LETTER G"/>
+			<key code="6" action="Entering LATIN CAPITAL LETTER Z"/>
+			<key code="7" action="Entering LATIN CAPITAL LETTER X"/>
+			<key code="8" action="Entering LATIN CAPITAL LETTER C"/>
+			<key code="9" action="Entering LATIN CAPITAL LETTER V"/>
+			<key code="10" action="Entering MACRON"/>
+			<key code="11" action="Entering LATIN CAPITAL LETTER B"/>
+			<key code="12" action="Entering LATIN CAPITAL LETTER Q"/>
+			<key code="13" action="Entering LATIN CAPITAL LETTER W"/>
+			<key code="14" action="Entering LATIN CAPITAL LETTER E"/>
+			<key code="15" action="Entering LATIN CAPITAL LETTER R"/>
+			<key code="16" action="Entering LATIN CAPITAL LETTER Y"/>
+			<key code="17" action="Entering LATIN CAPITAL LETTER T"/>
+			<key code="18" action="Entering EXCLAMATION MARK"/>
+			<key code="19" action="Entering QUOTATION MARK"/>
+			<key code="20" action="Entering POUND SIGN"/>
+			<key code="21" action="Entering DOLLAR SIGN"/>
+			<key code="22" action="Entering CIRCUMFLEX ACCENT"/>
+			<key code="23" action="Entering PERCENT SIGN"/>
+			<key code="24" action="Entering PLUS-MINUS SIGN"/>
+			<key code="25" action="Entering LEFT PARENTHESIS"/>
+			<key code="26" action="Entering AMPERSAND"/>
+			<key code="27" action="—"/>
+			<key code="28" action="Entering ASTERISK"/>
+			<key code="29" action="Entering RIGHT PARENTHESIS"/>
+			<key code="30" action="”"/>
+			<key code="31" action="Entering LATIN CAPITAL LETTER O"/>
+			<key code="32" action="Entering LATIN CAPITAL LETTER U"/>
+			<key code="33" action="“"/>
+			<key code="34" action="Entering LATIN CAPITAL LETTER I"/>
+			<key code="35" action="Entering LATIN CAPITAL LETTER P"/>
+			<key code="37" action="Entering LATIN CAPITAL LETTER L"/>
+			<key code="38" action="Entering LATIN CAPITAL LETTER J"/>
+			<key code="39" action="°"/>
+			<key code="40" action="Entering LATIN CAPITAL LETTER K"/>
+			<key code="41" action="„"/>
+			<key code="42" action="•"/>
+			<key code="43" action="«"/>
+			<key code="44" action="Entering MULTIPLICATION SIGN"/>
+			<key code="45" action="Entering LATIN CAPITAL LETTER N"/>
+			<key code="46" action="Entering LATIN CAPITAL LETTER M"/>
+			<key code="47" action="»"/>
+			<key code="49" action="Entering NO-BREAK SPACE"/>
+			<key code="50" action="Entering CURRENCY SIGN"/>
+			<key code="65" action="."/>
+			<key code="71" output="&#x001B;"/>
+			<key code="81" output="="/>
+			<key code="96" output="&#x0010;"/>
+			<key code="97" output="&#x0010;"/>
+			<key code="98" output="&#x0010;"/>
+			<key code="99" output="&#x0010;"/>
+			<key code="100" output="&#x0010;"/>
+			<key code="101" output="&#x0010;"/>
+			<key code="103" output="&#x0010;"/>
+			<key code="105" output="&#x0010;"/>
+			<key code="106" output="&#x0010;"/>
+			<key code="107" output="&#x0010;"/>
+			<key code="109" output="&#x0010;"/>
+			<key code="111" output="&#x0010;"/>
+			<key code="113" output="&#x0010;"/>
+			<key code="114" output="&#x0005;"/>
+			<key code="115" output="&#x0001;"/>
+			<key code="116" output="&#x000B;"/>
+			<key code="117" output="&#x007F;"/>
+			<key code="118" output="&#x0010;"/>
+			<key code="119" output="&#x0004;"/>
+			<key code="120" output="&#x0010;"/>
+			<key code="121" output="&#x000C;"/>
+			<key code="122" output="&#x0010;"/>
+			<key code="123" output="&#x001C;"/>
+			<key code="124" output="&#x001D;"/>
+			<key code="125" output="&#x001F;"/>
+			<key code="126" output="&#x001E;"/>
+		</keyMap>
+		<keyMap index="8">
+			<key code="0" action="Entering LATIN SMALL LETTER A"/>
+			<key code="1" action="Entering LATIN SMALL LETTER S"/>
+			<key code="2" action="Entering LATIN SMALL LETTER D"/>
+			<key code="3" action="Entering LATIN SMALL LETTER F"/>
+			<key code="4" action="Entering LATIN SMALL LETTER H"/>
+			<key code="5" action="Entering LATIN SMALL LETTER G"/>
+			<key code="6" action="Entering LATIN SMALL LETTER Z"/>
+			<key code="7" action="Entering LATIN SMALL LETTER X"/>
+			<key code="8" action="Entering LATIN SMALL LETTER C"/>
+			<key code="9" action="Entering LATIN SMALL LETTER V"/>
+			<key code="10" action="Entering MACRON"/>
+			<key code="11" action="Entering LATIN SMALL LETTER B"/>
+			<key code="12" action="Entering LATIN SMALL LETTER Q"/>
+			<key code="13" action="Entering LATIN SMALL LETTER W"/>
+			<key code="14" action="Entering LATIN SMALL LETTER E"/>
+			<key code="15" action="Entering LATIN SMALL LETTER R"/>
+			<key code="16" action="Entering LATIN SMALL LETTER Y"/>
+			<key code="17" action="Entering LATIN SMALL LETTER T"/>
+			<key code="18" action="Entering EXCLAMATION MARK"/>
+			<key code="19" action="Entering QUOTATION MARK"/>
+			<key code="20" action="Entering POUND SIGN"/>
+			<key code="21" action="Entering DOLLAR SIGN"/>
+			<key code="22" action="Entering CIRCUMFLEX ACCENT"/>
+			<key code="23" action="Entering PERCENT SIGN"/>
+			<key code="24" action="Entering PLUS-MINUS SIGN"/>
+			<key code="25" action="Entering LEFT PARENTHESIS"/>
+			<key code="26" action="Entering AMPERSAND"/>
+			<key code="27" action="—"/>
+			<key code="28" action="Entering ASTERISK"/>
+			<key code="29" action="Entering RIGHT PARENTHESIS"/>
+			<key code="30" action="”"/>
+			<key code="31" action="Entering LATIN SMALL LETTER O"/>
+			<key code="32" action="Entering LATIN SMALL LETTER U"/>
+			<key code="33" action="“"/>
+			<key code="34" action="Entering LATIN SMALL LETTER I"/>
+			<key code="35" action="Entering LATIN SMALL LETTER P"/>
+			<key code="37" action="Entering LATIN SMALL LETTER L"/>
+			<key code="38" action="Entering LATIN SMALL LETTER J"/>
+			<key code="39" action="°"/>
+			<key code="40" action="Entering LATIN SMALL LETTER K"/>
+			<key code="41" action="„"/>
+			<key code="42" action="•"/>
+			<key code="43" action="«"/>
+			<key code="44" action="Entering MULTIPLICATION SIGN"/>
+			<key code="45" action="Entering LATIN SMALL LETTER N"/>
+			<key code="46" action="Entering LATIN SMALL LETTER M"/>
+			<key code="47" action="»"/>
+			<key code="49" action="Entering NO-BREAK SPACE"/>
+			<key code="50" action="Entering CURRENCY SIGN"/>
+			<key code="65" action="."/>
+			<key code="71" output="&#x001B;"/>
+			<key code="81" output="="/>
+			<key code="96" output="&#x0010;"/>
+			<key code="97" output="&#x0010;"/>
+			<key code="98" output="&#x0010;"/>
+			<key code="99" output="&#x0010;"/>
+			<key code="100" output="&#x0010;"/>
+			<key code="101" output="&#x0010;"/>
+			<key code="103" output="&#x0010;"/>
+			<key code="105" output="&#x0010;"/>
+			<key code="106" output="&#x0010;"/>
+			<key code="107" output="&#x0010;"/>
+			<key code="109" output="&#x0010;"/>
+			<key code="111" output="&#x0010;"/>
+			<key code="113" output="&#x0010;"/>
+			<key code="114" output="&#x0005;"/>
+			<key code="115" output="&#x0001;"/>
+			<key code="116" output="&#x000B;"/>
+			<key code="117" output="&#x007F;"/>
+			<key code="118" output="&#x0010;"/>
+			<key code="119" output="&#x0004;"/>
+			<key code="120" output="&#x0010;"/>
+			<key code="121" output="&#x000C;"/>
+			<key code="122" output="&#x0010;"/>
+			<key code="123" output="&#x001C;"/>
+			<key code="124" output="&#x001D;"/>
+			<key code="125" output="&#x001F;"/>
+			<key code="126" output="&#x001E;"/>
+		</keyMap>
+	</keyMapSet>
+	<actions>
+		<action id="Entering ACUTE ACCENT">
+			<when state="none" next="ACUTE ACCENT"/>
+			<when state="DIAERESIS" output="ˀ"/>
+			<when state="LATIN SMALL LETTER A" output="ẚ"/>
+			<when state="NO-BREAK SPACE" output="͗"/>
+		</action>
+		<action id="Entering AMPERSAND">
+			<when state="none" next="AMPERSAND"/>
+			<when state="CURRENCY SIGN" output="☆"/>
+			<when state="NO-BREAK SPACE" output="̠"/>
+		</action>
+		<action id="Entering ASTERISK">
+			<when state="none" next="ASTERISK"/>
+			<when state="ASTERISK" output="∗"/>
+			<when state="CURRENCY SIGN" output="☏"/>
+			<when state="NO-BREAK SPACE" output="̟"/>
+		</action>
+		<action id="Entering BROKEN BAR">
+			<when state="none" next="BROKEN BAR"/>
+		</action>
+		<action id="Entering CIRCUMFLEX ACCENT">
+			<when state="none" next="CIRCUMFLEX ACCENT"/>
+			<when state="CURRENCY SIGN" output="○"/>
+			<when state="NO-BREAK SPACE" output="̚"/>
+		</action>
+		<action id="Entering CURRENCY SIGN">
+			<when state="none" next="CURRENCY SIGN"/>
+		</action>
+		<action id="Entering DIAERESIS">
+			<when state="none" next="DIAERESIS"/>
+			<when state="DIGIT EIGHT" output="₈"/>
+			<when state="DIGIT FIVE" output="₅"/>
+			<when state="DIGIT FOUR" output="₄"/>
+			<when state="DIGIT NINE" output="₉"/>
+			<when state="DIGIT ONE" output="₁"/>
+			<when state="DIGIT SEVEN" output="₇"/>
+			<when state="DIGIT SIX" output="₆"/>
+			<when state="DIGIT THREE" output="₃"/>
+			<when state="DIGIT TWO" output="₂"/>
+			<when state="DIGIT ZERO" output="₀"/>
+			<when state="DIVISION SIGN" output="₋"/>
+			<when state="INVERTED EXCLAMATION MARK" output="₌"/>
+			<when state="LATIN CAPITAL LETTER E" output="ₔ"/>
+			<when state="LATIN SMALL LETTER A" output="ₐ"/>
+			<when state="LATIN SMALL LETTER E" output="ₑ"/>
+			<when state="LATIN SMALL LETTER O" output="ₒ"/>
+			<when state="LATIN SMALL LETTER X" output="ₓ"/>
+			<when state="LEFT PARENTHESIS" output="₍"/>
+			<when state="PLUS-MINUS SIGN" output="₊"/>
+			<when state="RIGHT PARENTHESIS" output="₎"/>
+		</action>
+		<action id="Entering DIGIT EIGHT">
+			<when state="none" next="DIGIT EIGHT"/>
+			<when state="CURRENCY SIGN" output="☎"/>
+			<when state="DIAERESIS" output="˕"/>
+			<when state="DIGIT FIVE" output="⅝"/>
+			<when state="DIGIT ONE" output="⅛"/>
+			<when state="DIGIT SEVEN" output="⅞"/>
+			<when state="DIGIT THREE" output="⅜"/>
+			<when state="INVERTED EXCLAMATION MARK" output="⊤"/>
+			<when state="NO-BREAK SPACE" output="̞"/>
+		</action>
+		<action id="Entering DIGIT FIVE">
+			<when state="none" next="DIGIT FIVE"/>
+			<when state="CURRENCY SIGN" output="■"/>
+			<when state="NO-BREAK SPACE" output="̺"/>
+		</action>
+		<action id="Entering DIGIT FOUR">
+			<when state="none" next="DIGIT FOUR"/>
+			<when state="ACUTE ACCENT" output="⁗"/>
+			<when state="CURRENCY SIGN" output="♣"/>
+			<when state="DIGIT ONE" output="¼"/>
+			<when state="DIGIT THREE" output="¾"/>
+			<when state="DIVISION SIGN" output="∜"/>
+			<when state="NO-BREAK SPACE" output="̪"/>
+			<when state="SPACE" output=" "/>
+		</action>
+		<action id="Entering DIGIT NINE">
+			<when state="none" next="DIGIT NINE"/>
+			<when state="CURRENCY SIGN" output="☀"/>
+			<when state="DIAERESIS" output="˓"/>
+			<when state="INVERTED EXCLAMATION MARK" output="⊣"/>
+			<when state="NO-BREAK SPACE" output="̘"/>
+		</action>
+		<action id="Entering DIGIT ONE">
+			<when state="none" next="DIGIT ONE"/>
+			<when state="ACUTE ACCENT" output="′"/>
+			<when state="ASTERISK" output="†"/>
+			<when state="CURRENCY SIGN" output="♠"/>
+			<when state="DIAERESIS" output="ˈ"/>
+			<when state="NO-BREAK SPACE" output="̍"/>
+		</action>
+		<action id="Entering DIGIT SEVEN">
+			<when state="none" next="DIGIT SEVEN"/>
+			<when state="CURRENCY SIGN" output="★"/>
+			<when state="DIAERESIS" output="˔"/>
+			<when state="INVERTED EXCLAMATION MARK" output="⊥"/>
+			<when state="NO-BREAK SPACE" output="̝"/>
+		</action>
+		<action id="Entering DIGIT SIX">
+			<when state="none" next="DIGIT SIX"/>
+			<when state="CURRENCY SIGN" output="●"/>
+			<when state="NO-BREAK SPACE" output="͆"/>
+			<when state="SPACE" output=" "/>
+		</action>
+		<action id="Entering DIGIT THREE">
+			<when state="none" next="DIGIT THREE"/>
+			<when state="ACUTE ACCENT" output="‴"/>
+			<when state="ASTERISK" output="⁂"/>
+			<when state="CURRENCY SIGN" output="♦"/>
+			<when state="DIVISION SIGN" output="∛"/>
+			<when state="NO-BREAK SPACE" output="̻"/>
+			<when state="SPACE" output=" "/>
+		</action>
+		<action id="Entering DIGIT TWO">
+			<when state="none" next="DIGIT TWO"/>
+			<when state="ACUTE ACCENT" output="″"/>
+			<when state="ASTERISK" output="‡"/>
+			<when state="CURRENCY SIGN" output="♥"/>
+			<when state="DIAERESIS" output="ˌ"/>
+			<when state="DIGIT ONE" output="½"/>
+			<when state="DIVISION SIGN" output="√"/>
+			<when state="EXCLAMATION MARK" output="‼"/>
+			<when state="MACRON" output="‖"/>
+			<when state="NO-BREAK SPACE" output="̩"/>
+		</action>
+		<action id="Entering DIGIT ZERO">
+			<when state="none" next="DIGIT ZERO"/>
+			<when state="CURRENCY SIGN" output="☻"/>
+			<when state="DIAERESIS" output="˒"/>
+			<when state="DIGIT EIGHT" output="⑧"/>
+			<when state="DIGIT FIVE" output="⑤"/>
+			<when state="DIGIT FOUR" output="④"/>
+			<when state="DIGIT NINE" output="⑨"/>
+			<when state="DIGIT ONE" output="①"/>
+			<when state="DIGIT SEVEN" output="⑦"/>
+			<when state="DIGIT SIX" output="⑥"/>
+			<when state="DIGIT THREE" output="③"/>
+			<when state="DIGIT TWO" output="②"/>
+			<when state="DIGIT ZERO" output="⓪"/>
+			<when state="INVERTED EXCLAMATION MARK" output="⊢"/>
+			<when state="LATIN CAPITAL LETTER A" output="Ⓐ"/>
+			<when state="LATIN CAPITAL LETTER B" output="Ⓑ"/>
+			<when state="LATIN CAPITAL LETTER C" output="Ⓒ"/>
+			<when state="LATIN CAPITAL LETTER D" output="Ⓓ"/>
+			<when state="LATIN CAPITAL LETTER E" output="Ⓔ"/>
+			<when state="LATIN CAPITAL LETTER F" output="Ⓕ"/>
+			<when state="LATIN CAPITAL LETTER G" output="Ⓖ"/>
+			<when state="LATIN CAPITAL LETTER H" output="Ⓗ"/>
+			<when state="LATIN CAPITAL LETTER I" output="Ⓘ"/>
+			<when state="LATIN CAPITAL LETTER J" output="Ⓙ"/>
+			<when state="LATIN CAPITAL LETTER K" output="Ⓚ"/>
+			<when state="LATIN CAPITAL LETTER L" output="Ⓛ"/>
+			<when state="LATIN CAPITAL LETTER M" output="Ⓜ"/>
+			<when state="LATIN CAPITAL LETTER N" output="Ⓝ"/>
+			<when state="LATIN CAPITAL LETTER O" output="Ⓞ"/>
+			<when state="LATIN CAPITAL LETTER P" output="Ⓟ"/>
+			<when state="LATIN CAPITAL LETTER Q" output="Ⓠ"/>
+			<when state="LATIN CAPITAL LETTER R" output="Ⓡ"/>
+			<when state="LATIN CAPITAL LETTER S" output="Ⓢ"/>
+			<when state="LATIN CAPITAL LETTER T" output="Ⓣ"/>
+			<when state="LATIN CAPITAL LETTER U" output="Ⓤ"/>
+			<when state="LATIN CAPITAL LETTER V" output="Ⓥ"/>
+			<when state="LATIN CAPITAL LETTER W" output="Ⓦ"/>
+			<when state="LATIN CAPITAL LETTER X" output="Ⓧ"/>
+			<when state="LATIN CAPITAL LETTER Y" output="Ⓨ"/>
+			<when state="LATIN CAPITAL LETTER Z" output="Ⓩ"/>
+			<when state="LATIN SMALL LETTER A" output="ⓐ"/>
+			<when state="LATIN SMALL LETTER B" output="ⓑ"/>
+			<when state="LATIN SMALL LETTER C" output="ⓒ"/>
+			<when state="LATIN SMALL LETTER D" output="ⓓ"/>
+			<when state="LATIN SMALL LETTER E" output="ⓔ"/>
+			<when state="LATIN SMALL LETTER F" output="ⓕ"/>
+			<when state="LATIN SMALL LETTER G" output="ⓖ"/>
+			<when state="LATIN SMALL LETTER H" output="ⓗ"/>
+			<when state="LATIN SMALL LETTER I" output="ⓘ"/>
+			<when state="LATIN SMALL LETTER J" output="ⓙ"/>
+			<when state="LATIN SMALL LETTER K" output="ⓚ"/>
+			<when state="LATIN SMALL LETTER L" output="ⓛ"/>
+			<when state="LATIN SMALL LETTER M" output="ⓜ"/>
+			<when state="LATIN SMALL LETTER N" output="ⓝ"/>
+			<when state="LATIN SMALL LETTER O" output="ⓞ"/>
+			<when state="LATIN SMALL LETTER P" output="ⓟ"/>
+			<when state="LATIN SMALL LETTER Q" output="ⓠ"/>
+			<when state="LATIN SMALL LETTER R" output="ⓡ"/>
+			<when state="LATIN SMALL LETTER S" output="ⓢ"/>
+			<when state="LATIN SMALL LETTER T" output="ⓣ"/>
+			<when state="LATIN SMALL LETTER U" output="ⓤ"/>
+			<when state="LATIN SMALL LETTER V" output="ⓥ"/>
+			<when state="LATIN SMALL LETTER W" output="ⓦ"/>
+			<when state="LATIN SMALL LETTER X" output="ⓧ"/>
+			<when state="LATIN SMALL LETTER Y" output="ⓨ"/>
+			<when state="LATIN SMALL LETTER Z" output="ⓩ"/>
+			<when state="NO-BREAK SPACE" output="̙"/>
+			<when state="PERCENT SIGN" output="‰"/>
+		</action>
+		<action id="Entering DIVISION SIGN">
+			<when state="none" next="DIVISION SIGN"/>
+			<when state="LATIN SMALL LETTER C" output="ɕ"/>
+			<when state="LATIN SMALL LETTER D" output="ȡ"/>
+			<when state="LATIN SMALL LETTER J" output="ʝ"/>
+			<when state="LATIN SMALL LETTER L" output="ȴ"/>
+			<when state="LATIN SMALL LETTER N" output="ȵ"/>
+			<when state="LATIN SMALL LETTER T" output="ȶ"/>
+			<when state="LATIN SMALL LETTER V" output="ⱴ"/>
+			<when state="LATIN SMALL LETTER Z" output="ʑ"/>
+			<when state="NO-BREAK SPACE" output="̸"/>
+		</action>
+		<action id="Entering DOLLAR SIGN">
+			<when state="none" next="DOLLAR SIGN"/>
+			<when state="CURRENCY SIGN" output="♧"/>
+			<when state="DIAERESIS" output="˦"/>
+			<when state="LATIN CAPITAL LETTER C" output="₡"/>
+			<when state="LATIN CAPITAL LETTER S" output="₴"/>
+			<when state="LATIN SMALL LETTER C" output="¢"/>
+			<when state="LATIN SMALL LETTER D" output="₫"/>
+			<when state="LATIN SMALL LETTER E" output="€"/>
+			<when state="LATIN SMALL LETTER G" output="₲"/>
+			<when state="LATIN SMALL LETTER K" output="₭"/>
+			<when state="LATIN SMALL LETTER L" output="£"/>
+			<when state="LATIN SMALL LETTER M" output="₥"/>
+			<when state="LATIN SMALL LETTER N" output="₦"/>
+			<when state="LATIN SMALL LETTER P" output="₱"/>
+			<when state="LATIN SMALL LETTER R" output="₨"/>
+			<when state="LATIN SMALL LETTER S" output="₪"/>
+			<when state="LATIN SMALL LETTER T" output="₮"/>
+			<when state="LATIN SMALL LETTER W" output="₩"/>
+			<when state="LATIN SMALL LETTER X" output="¤"/>
+			<when state="LATIN SMALL LETTER Y" output="¥"/>
+		</action>
+		<action id="Entering EXCLAMATION MARK">
+			<when state="none" next="EXCLAMATION MARK"/>
+			<when state="ACUTE ACCENT" output="‵"/>
+			<when state="CURRENCY SIGN" output="♤"/>
+			<when state="DIAERESIS" output="˩"/>
+			<when state="MULTIPLICATION SIGN" output="‽"/>
+		</action>
+		<action id="Entering INVERTED EXCLAMATION MARK">
+			<when state="none" next="INVERTED EXCLAMATION MARK"/>
+			<when state="LATIN CAPITAL LETTER L" output="Ⱡ"/>
+			<when state="LATIN SMALL LETTER L" output="ⱡ"/>
+			<when state="NO-BREAK SPACE" output="̯"/>
+		</action>
+		<action id="Entering LATIN CAPITAL LETTER A">
+			<when state="none" next="LATIN CAPITAL LETTER A"/>
+			<when state="BROKEN BAR" output="Α"/>
+			<when state="CURRENCY SIGN" output="⇐"/>
+			<when state="DIAERESIS" output="ᴬ"/>
+		</action>
+		<action id="Entering LATIN CAPITAL LETTER B">
+			<when state="none" next="LATIN CAPITAL LETTER B"/>
+			<when state="BROKEN BAR" output="Β"/>
+			<when state="CURRENCY SIGN" output="♭"/>
+			<when state="DIAERESIS" output="ᴮ"/>
+			<when state="EXCLAMATION MARK" output="ʬ"/>
+		</action>
+		<action id="Entering LATIN CAPITAL LETTER C">
+			<when state="none" next="LATIN CAPITAL LETTER C"/>
+			<when state="BROKEN BAR" output="Ψ"/>
+			<when state="CURRENCY SIGN" output="⇘"/>
+		</action>
+		<action id="Entering LATIN CAPITAL LETTER D">
+			<when state="none" next="LATIN CAPITAL LETTER D"/>
+			<when state="BROKEN BAR" output="Δ"/>
+			<when state="CURRENCY SIGN" output="⇒"/>
+			<when state="DIAERESIS" output="ᴰ"/>
+			<when state="EXCLAMATION MARK" output="ʭ"/>
+		</action>
+		<action id="Entering LATIN CAPITAL LETTER E">
+			<when state="none" next="LATIN CAPITAL LETTER E"/>
+			<when state="BROKEN BAR" output="Ε"/>
+			<when state="CURRENCY SIGN" output="⇗"/>
+			<when state="DIAERESIS" output="ᴱ"/>
+			<when state="LATIN SMALL LETTER O" output="ɶ"/>
+		</action>
+		<action id="Entering LATIN CAPITAL LETTER F">
+			<when state="none" next="LATIN CAPITAL LETTER F"/>
+			<when state="BROKEN BAR" output="Φ"/>
+			<when state="CURRENCY SIGN" output="⇔"/>
+		</action>
+		<action id="Entering LATIN CAPITAL LETTER G">
+			<when state="none" next="LATIN CAPITAL LETTER G"/>
+			<when state="BROKEN BAR" output="Γ"/>
+			<when state="CURRENCY SIGN" output="♂"/>
+			<when state="DIAERESIS" output="ᴳ"/>
+		</action>
+		<action id="Entering LATIN CAPITAL LETTER H">
+			<when state="none" next="LATIN CAPITAL LETTER H"/>
+			<when state="BROKEN BAR" output="Η"/>
+			<when state="CURRENCY SIGN" output="☣"/>
+			<when state="DIAERESIS" output="ᴴ"/>
+			<when state="LATIN SMALL LETTER G" output="ᵹ"/>
+		</action>
+		<action id="Entering LATIN CAPITAL LETTER I">
+			<when state="none" next="LATIN CAPITAL LETTER I"/>
+			<when state="BROKEN BAR" output="Ι"/>
+			<when state="CURRENCY SIGN" output="☝"/>
+			<when state="DIAERESIS" output="ᴵ"/>
+			<when state="LATIN SMALL LETTER F" output="ﬃ"/>
+		</action>
+		<action id="Entering LATIN CAPITAL LETTER J">
+			<when state="none" next="LATIN CAPITAL LETTER J"/>
+			<when state="BROKEN BAR" output="Ξ"/>
+			<when state="CURRENCY SIGN" output="☜"/>
+			<when state="DIAERESIS" output="ᴶ"/>
+			<when state="LATIN CAPITAL LETTER D" output="Ǆ"/>
+			<when state="LATIN CAPITAL LETTER L" output="Ǉ"/>
+			<when state="LATIN CAPITAL LETTER N" output="Ǌ"/>
+			<when state="LATIN SMALL LETTER D" output="ʤ"/>
+		</action>
+		<action id="Entering LATIN CAPITAL LETTER K">
+			<when state="none" next="LATIN CAPITAL LETTER K"/>
+			<when state="BROKEN BAR" output="Κ"/>
+			<when state="CURRENCY SIGN" output="☟"/>
+			<when state="DIAERESIS" output="ᴷ"/>
+		</action>
+		<action id="Entering LATIN CAPITAL LETTER L">
+			<when state="none" next="LATIN CAPITAL LETTER L"/>
+			<when state="BROKEN BAR" output="Λ"/>
+			<when state="CURRENCY SIGN" output="☞"/>
+			<when state="DIAERESIS" output="ᴸ"/>
+			<when state="LATIN SMALL LETTER F" output="ﬄ"/>
+		</action>
+		<action id="Entering LATIN CAPITAL LETTER M">
+			<when state="none" next="LATIN CAPITAL LETTER M"/>
+			<when state="BROKEN BAR" output="Μ"/>
+			<when state="CURRENCY SIGN" output="♯"/>
+			<when state="DIAERESIS" output="ᴹ"/>
+			<when state="SPACE" output=" "/>
+		</action>
+		<action id="Entering LATIN CAPITAL LETTER N">
+			<when state="none" next="LATIN CAPITAL LETTER N"/>
+			<when state="BROKEN BAR" output="Ν"/>
+			<when state="CURRENCY SIGN" output="♮"/>
+			<when state="DIAERESIS" output="ᴺ"/>
+			<when state="SPACE" output=" "/>
+		</action>
+		<action id="Entering LATIN CAPITAL LETTER O">
+			<when state="none" next="LATIN CAPITAL LETTER O"/>
+			<when state="BROKEN BAR" output="Ο"/>
+			<when state="CURRENCY SIGN" output="☂"/>
+			<when state="DIAERESIS" output="ᴼ"/>
+		</action>
+		<action id="Entering LATIN CAPITAL LETTER P">
+			<when state="none" next="LATIN CAPITAL LETTER P"/>
+			<when state="BROKEN BAR" output="Π"/>
+			<when state="CURRENCY SIGN" output="☹"/>
+			<when state="DIAERESIS" output="ᴾ"/>
+		</action>
+		<action id="Entering LATIN CAPITAL LETTER Q">
+			<when state="none" next="LATIN CAPITAL LETTER Q"/>
+			<when state="CURRENCY SIGN" output="⇖"/>
+		</action>
+		<action id="Entering LATIN CAPITAL LETTER R">
+			<when state="none" next="LATIN CAPITAL LETTER R"/>
+			<when state="BROKEN BAR" output="Ρ"/>
+			<when state="CURRENCY SIGN" output="⇕"/>
+			<when state="DIAERESIS" output="ᴿ"/>
+			<when state="LATIN SMALL LETTER E" output="ɚ"/>
+			<when state="LATIN SMALL LETTER G" output="ʛ"/>
+			<when state="LATIN SMALL LETTER I" output="ɝ"/>
+			<when state="LATIN SMALL LETTER J" output="ʄ"/>
+			<when state="NO-BREAK SPACE" output="᷊"/>
+		</action>
+		<action id="Entering LATIN CAPITAL LETTER S">
+			<when state="none" next="LATIN CAPITAL LETTER S"/>
+			<when state="ACUTE ACCENT" output="Ɂ"/>
+			<when state="BROKEN BAR" output="Σ"/>
+			<when state="CURRENCY SIGN" output="↺"/>
+			<when state="DIAERESIS" output="ᵊ"/>
+			<when state="LATIN SMALL LETTER S" output="ſ"/>
+			<when state="LATIN SMALL LETTER T" output="ʧ"/>
+		</action>
+		<action id="Entering LATIN CAPITAL LETTER T">
+			<when state="none" next="LATIN CAPITAL LETTER T"/>
+			<when state="BROKEN BAR" output="Τ"/>
+			<when state="CURRENCY SIGN" output="☭"/>
+			<when state="DIAERESIS" output="ᵀ"/>
+			<when state="LATIN SMALL LETTER S" output="ﬅ"/>
+		</action>
+		<action id="Entering LATIN CAPITAL LETTER U">
+			<when state="none" next="LATIN CAPITAL LETTER U"/>
+			<when state="BROKEN BAR" output="Θ"/>
+			<when state="CURRENCY SIGN" output="☥"/>
+			<when state="DIAERESIS" output="ᵁ"/>
+		</action>
+		<action id="Entering LATIN CAPITAL LETTER V">
+			<when state="none" next="LATIN CAPITAL LETTER V"/>
+			<when state="BROKEN BAR" output="Ω"/>
+			<when state="CURRENCY SIGN" output="♨"/>
+		</action>
+		<action id="Entering LATIN CAPITAL LETTER W">
+			<when state="none" next="LATIN CAPITAL LETTER W"/>
+			<when state="CURRENCY SIGN" output="⇑"/>
+			<when state="DIAERESIS" output="ᵂ"/>
+		</action>
+		<action id="Entering LATIN CAPITAL LETTER X">
+			<when state="none" next="LATIN CAPITAL LETTER X"/>
+			<when state="BROKEN BAR" output="Χ"/>
+			<when state="CURRENCY SIGN" output="⇓"/>
+			<when state="DIAERESIS" output="˟"/>
+			<when state="NO-BREAK SPACE" output="̽"/>
+		</action>
+		<action id="Entering LATIN CAPITAL LETTER Y">
+			<when state="none" next="LATIN CAPITAL LETTER Y"/>
+			<when state="BROKEN BAR" output="Υ"/>
+			<when state="CURRENCY SIGN" output="☮"/>
+			<when state="DIAERESIS" output="ˠ"/>
+		</action>
+		<action id="Entering LATIN CAPITAL LETTER Z">
+			<when state="none" next="LATIN CAPITAL LETTER Z"/>
+			<when state="BROKEN BAR" output="Ζ"/>
+			<when state="CURRENCY SIGN" output="⇙"/>
+			<when state="LATIN CAPITAL LETTER D" output="Ǳ"/>
+			<when state="LATIN SMALL LETTER D" output="ʣ"/>
+			<when state="LATIN SMALL LETTER L" output="ɮ"/>
+		</action>
+		<action id="Entering LATIN SMALL LETTER A">
+			<when state="none" next="LATIN SMALL LETTER A"/>
+			<when state="BROKEN BAR" output="α"/>
+			<when state="CURRENCY SIGN" output="←"/>
+			<when state="DIAERESIS" output="ᵃ"/>
+			<when state="EXCLAMATION MARK" output="ǂ"/>
+			<when state="NO-BREAK SPACE" output="ͣ"/>
+		</action>
+		<action id="Entering LATIN SMALL LETTER B">
+			<when state="none" next="LATIN SMALL LETTER B"/>
+			<when state="BROKEN BAR" output="β"/>
+			<when state="CURRENCY SIGN" output="♪"/>
+			<when state="DIAERESIS" output="ᵇ"/>
+			<when state="EXCLAMATION MARK" output="ʘ"/>
+			<when state="LATIN SMALL LETTER D" output="ȸ"/>
+			<when state="LATIN SMALL LETTER L" output="℔"/>
+			<when state="MACRON" output="¦"/>
+		</action>
+		<action id="Entering LATIN SMALL LETTER C">
+			<when state="none" next="LATIN SMALL LETTER C"/>
+			<when state="BROKEN BAR" output="ψ"/>
+			<when state="CURRENCY SIGN" output="↘"/>
+			<when state="DIAERESIS" output="ᶜ"/>
+			<when state="EXCLAMATION MARK" output="ʗ"/>
+			<when state="LATIN SMALL LETTER A" output="℀"/>
+			<when state="LATIN SMALL LETTER P" output="¶"/>
+			<when state="LATIN SMALL LETTER S" output="§"/>
+			<when state="LATIN SMALL LETTER T" output="ʨ"/>
+			<when state="NO-BREAK SPACE" output="ͨ"/>
+		</action>
+		<action id="Entering LATIN SMALL LETTER D">
+			<when state="none" next="LATIN SMALL LETTER D"/>
+			<when state="BROKEN BAR" output="δ"/>
+			<when state="CURRENCY SIGN" output="→"/>
+			<when state="DIAERESIS" output="ᵈ"/>
+			<when state="DIVISION SIGN" output="∕"/>
+			<when state="EXCLAMATION MARK" output="ǀ"/>
+			<when state="NO-BREAK SPACE" output="ͩ"/>
+		</action>
+		<action id="Entering LATIN SMALL LETTER E">
+			<when state="none" next="LATIN SMALL LETTER E"/>
+			<when state="ACUTE ACCENT" output="ʡ"/>
+			<when state="BROKEN BAR" output="ε"/>
+			<when state="CURRENCY SIGN" output="↗"/>
+			<when state="DIAERESIS" output="ᵉ"/>
+			<when state="LATIN CAPITAL LETTER A" output="Æ"/>
+			<when state="LATIN CAPITAL LETTER O" output="Œ"/>
+			<when state="LATIN SMALL LETTER A" output="æ"/>
+			<when state="LATIN SMALL LETTER O" output="œ"/>
+			<when state="LATIN SMALL LETTER T" output="℡"/>
+			<when state="LATIN SMALL LETTER U" output="ᵫ"/>
+			<when state="NO-BREAK SPACE" output="ͤ"/>
+		</action>
+		<action id="Entering LATIN SMALL LETTER F">
+			<when state="none" next="LATIN SMALL LETTER F"/>
+			<when state="ACUTE ACCENT" output="ʢ"/>
+			<when state="BROKEN BAR" output="φ"/>
+			<when state="CURRENCY SIGN" output="↔"/>
+			<when state="DIAERESIS" output="ᶠ"/>
+			<when state="DIVISION SIGN" output="⁄"/>
+			<when state="LATIN SMALL LETTER F" output="ﬀ"/>
+			<when state="MACRON" output="‒"/>
+			<when state="SPACE" output=" "/>
+		</action>
+		<action id="Entering LATIN SMALL LETTER G">
+			<when state="none" next="LATIN SMALL LETTER G"/>
+			<when state="ACUTE ACCENT" output="ʔ"/>
+			<when state="BROKEN BAR" output="γ"/>
+			<when state="CURRENCY SIGN" output="♀"/>
+			<when state="DIAERESIS" output="ᵍ"/>
+			<when state="LATIN CAPITAL LETTER N" output="Ŋ"/>
+			<when state="LATIN SMALL LETTER G" output="ɡ"/>
+			<when state="LATIN SMALL LETTER N" output="ŋ"/>
+		</action>
+		<action id="Entering LATIN SMALL LETTER H">
+			<when state="none" next="LATIN SMALL LETTER H"/>
+			<when state="BROKEN BAR" output="η"/>
+			<when state="CURRENCY SIGN" output="☢"/>
+			<when state="DIAERESIS" output="ʰ"/>
+			<when state="LATIN CAPITAL LETTER D" output="Ð"/>
+			<when state="LATIN CAPITAL LETTER E" output="Ɛ"/>
+			<when state="LATIN CAPITAL LETTER Q" output="Ƣ"/>
+			<when state="LATIN CAPITAL LETTER S" output="Ʃ"/>
+			<when state="LATIN CAPITAL LETTER T" output="Þ"/>
+			<when state="LATIN CAPITAL LETTER U" output="Ʊ"/>
+			<when state="LATIN CAPITAL LETTER Z" output="Ʒ"/>
+			<when state="LATIN SMALL LETTER A" output="ɤ"/>
+			<when state="LATIN SMALL LETTER D" output="ð"/>
+			<when state="LATIN SMALL LETTER E" output="ɛ"/>
+			<when state="LATIN SMALL LETTER G" output="ȝ"/>
+			<when state="LATIN SMALL LETTER I" output="ɘ"/>
+			<when state="LATIN SMALL LETTER K" output="ĸ"/>
+			<when state="LATIN SMALL LETTER O" output="ɒ"/>
+			<when state="LATIN SMALL LETTER P" output="ɸ"/>
+			<when state="LATIN SMALL LETTER Q" output="ƣ"/>
+			<when state="LATIN SMALL LETTER R" output="Ʀ"/>
+			<when state="LATIN SMALL LETTER S" output="ʃ"/>
+			<when state="LATIN SMALL LETTER T" output="þ"/>
+			<when state="LATIN SMALL LETTER U" output="ʊ"/>
+			<when state="LATIN SMALL LETTER W" output="ƿ"/>
+			<when state="LATIN SMALL LETTER Y" output="ᴥ"/>
+			<when state="LATIN SMALL LETTER Z" output="ʒ"/>
+			<when state="MACRON" output="―"/>
+			<when state="NO-BREAK SPACE" output="ͪ"/>
+			<when state="SPACE" output=" "/>
+		</action>
+		<action id="Entering LATIN SMALL LETTER I">
+			<when state="none" next="LATIN SMALL LETTER I"/>
+			<when state="BROKEN BAR" output="ι"/>
+			<when state="CURRENCY SIGN" output="☃"/>
+			<when state="LATIN SMALL LETTER F" output="ﬁ"/>
+			<when state="NO-BREAK SPACE" output="ͥ"/>
+		</action>
+		<action id="Entering LATIN SMALL LETTER J">
+			<when state="none" next="LATIN SMALL LETTER J"/>
+			<when state="BROKEN BAR" output="ξ"/>
+			<when state="CURRENCY SIGN" output="☚"/>
+			<when state="DIAERESIS" output="ʲ"/>
+			<when state="LATIN CAPITAL LETTER D" output="ǅ"/>
+			<when state="LATIN CAPITAL LETTER I" output="Ĳ"/>
+			<when state="LATIN CAPITAL LETTER L" output="ǈ"/>
+			<when state="LATIN CAPITAL LETTER N" output="ǋ"/>
+			<when state="LATIN SMALL LETTER D" output="ǆ"/>
+			<when state="LATIN SMALL LETTER I" output="ĳ"/>
+			<when state="LATIN SMALL LETTER L" output="ǉ"/>
+			<when state="LATIN SMALL LETTER N" output="ǌ"/>
+		</action>
+		<action id="Entering LATIN SMALL LETTER K">
+			<when state="none" next="LATIN SMALL LETTER K"/>
+			<when state="BROKEN BAR" output="κ"/>
+			<when state="CURRENCY SIGN" output="⌂"/>
+			<when state="DIAERESIS" output="ᵏ"/>
+		</action>
+		<action id="Entering LATIN SMALL LETTER L">
+			<when state="none" next="LATIN SMALL LETTER L"/>
+			<when state="ACUTE ACCENT" output="ᴤ"/>
+			<when state="BROKEN BAR" output="λ"/>
+			<when state="CURRENCY SIGN" output="☛"/>
+			<when state="DIAERESIS" output="ˡ"/>
+			<when state="EXCLAMATION MARK" output="ǁ"/>
+			<when state="LATIN SMALL LETTER C" output="℄"/>
+			<when state="LATIN SMALL LETTER F" output="ﬂ"/>
+		</action>
+		<action id="Entering LATIN SMALL LETTER M">
+			<when state="none" next="LATIN SMALL LETTER M"/>
+			<when state="BROKEN BAR" output="μ"/>
+			<when state="CURRENCY SIGN" output="♬"/>
+			<when state="DIAERESIS" output="ᵐ"/>
+			<when state="LATIN SMALL LETTER C" output="©"/>
+			<when state="LATIN SMALL LETTER O" output="Ω"/>
+			<when state="LATIN SMALL LETTER P" output="℗"/>
+			<when state="LATIN SMALL LETTER R" output="®"/>
+			<when state="LATIN SMALL LETTER S" output="℠"/>
+			<when state="LATIN SMALL LETTER T" output="™"/>
+			<when state="NO-BREAK SPACE" output="ͫ"/>
+			<when state="SPACE" output=" "/>
+		</action>
+		<action id="Entering LATIN SMALL LETTER N">
+			<when state="none" next="LATIN SMALL LETTER N"/>
+			<when state="ACUTE ACCENT" output="ŉ"/>
+			<when state="BROKEN BAR" output="ν"/>
+			<when state="CURRENCY SIGN" output="♫"/>
+			<when state="DIAERESIS" output="ʱ"/>
+			<when state="LATIN SMALL LETTER F" output="ʩ"/>
+			<when state="LATIN SMALL LETTER H" output="ɧ"/>
+			<when state="SPACE" output=" "/>
+		</action>
+		<action id="Entering LATIN SMALL LETTER O">
+			<when state="none" next="LATIN SMALL LETTER O"/>
+			<when state="BROKEN BAR" output="ο"/>
+			<when state="CURRENCY SIGN" output="☁"/>
+			<when state="DIAERESIS" output="ᵒ"/>
+			<when state="LATIN CAPITAL LETTER I" output="Ɩ"/>
+			<when state="LATIN SMALL LETTER C" output="℅"/>
+			<when state="LATIN SMALL LETTER I" output="ɩ"/>
+			<when state="LATIN SMALL LETTER M" output="℧"/>
+			<when state="LATIN SMALL LETTER N" output="№"/>
+			<when state="NO-BREAK SPACE" output="ͦ"/>
+		</action>
+		<action id="Entering LATIN SMALL LETTER P">
+			<when state="none" next="LATIN SMALL LETTER P"/>
+			<when state="ACUTE ACCENT" output="ʕ"/>
+			<when state="BROKEN BAR" output="π"/>
+			<when state="CURRENCY SIGN" output="☠"/>
+			<when state="DIAERESIS" output="ᵖ"/>
+			<when state="LATIN SMALL LETTER Q" output="ȹ"/>
+			<when state="SPACE" output=" "/>
+		</action>
+		<action id="Entering LATIN SMALL LETTER Q">
+			<when state="none" next="LATIN SMALL LETTER Q"/>
+			<when state="CURRENCY SIGN" output="↖"/>
+		</action>
+		<action id="Entering LATIN SMALL LETTER R">
+			<when state="none" next="LATIN SMALL LETTER R"/>
+			<when state="ASTERISK" output="※"/>
+			<when state="BROKEN BAR" output="ρ"/>
+			<when state="CURRENCY SIGN" output="↕"/>
+			<when state="DIAERESIS" output="ʳ"/>
+			<when state="EXCLAMATION MARK" output="ǃ"/>
+			<when state="LATIN CAPITAL LETTER E" output="Ə"/>
+			<when state="LATIN CAPITAL LETTER G" output="Ɣ"/>
+			<when state="LATIN CAPITAL LETTER O" output="Ɔ"/>
+			<when state="LATIN SMALL LETTER A" output="ɑ"/>
+			<when state="LATIN SMALL LETTER E" output="ə"/>
+			<when state="LATIN SMALL LETTER G" output="ɣ"/>
+			<when state="LATIN SMALL LETTER H" output="ʁ"/>
+			<when state="LATIN SMALL LETTER I" output="ɜ"/>
+			<when state="LATIN SMALL LETTER J" output="ɟ"/>
+			<when state="LATIN SMALL LETTER L" output="ɺ"/>
+			<when state="LATIN SMALL LETTER O" output="ɔ"/>
+			<when state="LATIN SMALL LETTER R" output="ɾ"/>
+			<when state="LATIN SMALL LETTER U" output="ɞ"/>
+			<when state="LATIN SMALL LETTER W" output="ɰ"/>
+			<when state="MULTIPLICATION SIGN" output="�"/>
+			<when state="NO-BREAK SPACE" output="ͬ"/>
+		</action>
+		<action id="Entering LATIN SMALL LETTER S">
+			<when state="none" next="LATIN SMALL LETTER S"/>
+			<when state="ACUTE ACCENT" output="ɂ"/>
+			<when state="BROKEN BAR" output="σ"/>
+			<when state="CURRENCY SIGN" output="↻"/>
+			<when state="DIAERESIS" output="ˢ"/>
+			<when state="EXCLAMATION MARK" output="¡"/>
+			<when state="LATIN CAPITAL LETTER S" output="ẞ"/>
+			<when state="LATIN SMALL LETTER A" output="℁"/>
+			<when state="LATIN SMALL LETTER E" output="℮"/>
+			<when state="LATIN SMALL LETTER L" output="ʪ"/>
+			<when state="LATIN SMALL LETTER S" output="ß"/>
+			<when state="LATIN SMALL LETTER T" output="ʦ"/>
+		</action>
+		<action id="Entering LATIN SMALL LETTER T">
+			<when state="none" next="LATIN SMALL LETTER T"/>
+			<when state="BROKEN BAR" output="τ"/>
+			<when state="CURRENCY SIGN" output="☪"/>
+			<when state="DIAERESIS" output="ᵗ"/>
+			<when state="LATIN SMALL LETTER S" output="ﬆ"/>
+			<when state="NO-BREAK SPACE" output="ͭ"/>
+			<when state="SPACE" output=" "/>
+		</action>
+		<action id="Entering LATIN SMALL LETTER U">
+			<when state="none" next="LATIN SMALL LETTER U"/>
+			<when state="BROKEN BAR" output="θ"/>
+			<when state="CURRENCY SIGN" output="☤"/>
+			<when state="DIAERESIS" output="ᵘ"/>
+			<when state="LATIN CAPITAL LETTER O" output="Ȣ"/>
+			<when state="LATIN SMALL LETTER C" output="℆"/>
+			<when state="LATIN SMALL LETTER M" output="µ"/>
+			<when state="LATIN SMALL LETTER O" output="ȣ"/>
+			<when state="NO-BREAK SPACE" output="ͧ"/>
+		</action>
+		<action id="Entering LATIN SMALL LETTER V">
+			<when state="none" next="LATIN SMALL LETTER V"/>
+			<when state="BROKEN BAR" output="ω"/>
+			<when state="CURRENCY SIGN" output="♩"/>
+			<when state="DIAERESIS" output="ᵛ"/>
+			<when state="LATIN CAPITAL LETTER H" output="Ƕ"/>
+			<when state="LATIN SMALL LETTER H" output="ƕ"/>
+			<when state="NO-BREAK SPACE" output="ͮ"/>
+		</action>
+		<action id="Entering LATIN SMALL LETTER W">
+			<when state="none" next="LATIN SMALL LETTER W"/>
+			<when state="BROKEN BAR" output="ς"/>
+			<when state="CURRENCY SIGN" output="↑"/>
+			<when state="DIAERESIS" output="ʷ"/>
+		</action>
+		<action id="Entering LATIN SMALL LETTER X">
+			<when state="none" next="LATIN SMALL LETTER X"/>
+			<when state="ASTERISK" output="×"/>
+			<when state="BROKEN BAR" output="χ"/>
+			<when state="CURRENCY SIGN" output="↓"/>
+			<when state="DIAERESIS" output="ˣ"/>
+			<when state="LATIN SMALL LETTER R" output="℞"/>
+			<when state="NO-BREAK SPACE" output="ͯ"/>
+		</action>
+		<action id="Entering LATIN SMALL LETTER Y">
+			<when state="none" next="LATIN SMALL LETTER Y"/>
+			<when state="BROKEN BAR" output="υ"/>
+			<when state="CURRENCY SIGN" output="☯"/>
+			<when state="DIAERESIS" output="ʸ"/>
+		</action>
+		<action id="Entering LATIN SMALL LETTER Z">
+			<when state="none" next="LATIN SMALL LETTER Z"/>
+			<when state="BROKEN BAR" output="ζ"/>
+			<when state="CURRENCY SIGN" output="↙"/>
+			<when state="DIAERESIS" output="ᶻ"/>
+			<when state="LATIN CAPITAL LETTER D" output="ǲ"/>
+			<when state="LATIN SMALL LETTER D" output="ǳ"/>
+			<when state="LATIN SMALL LETTER L" output="ʫ"/>
+			<when state="LATIN SMALL LETTER O" output="℥"/>
+			<when state="LATIN SMALL LETTER T" output="ƾ"/>
+			<when state="SPACE" output="​"/>
+		</action>
+		<action id="Entering LEFT PARENTHESIS">
+			<when state="none" next="LEFT PARENTHESIS"/>
+			<when state="CURRENCY SIGN" output="☼"/>
+			<when state="DIAERESIS" output="ʿ"/>
+			<when state="NO-BREAK SPACE" output="͡"/>
+		</action>
+		<action id="Entering MACRON">
+			<when state="none" next="MACRON"/>
+			<when state="LATIN SMALL LETTER A" output="ᴀ"/>
+			<when state="LATIN SMALL LETTER B" output="ʙ"/>
+			<when state="LATIN SMALL LETTER C" output="ᴄ"/>
+			<when state="LATIN SMALL LETTER D" output="ᴅ"/>
+			<when state="LATIN SMALL LETTER E" output="ᴇ"/>
+			<when state="LATIN SMALL LETTER G" output="ɢ"/>
+			<when state="LATIN SMALL LETTER H" output="ʜ"/>
+			<when state="LATIN SMALL LETTER I" output="ɪ"/>
+			<when state="LATIN SMALL LETTER J" output="ᴊ"/>
+			<when state="LATIN SMALL LETTER K" output="ᴋ"/>
+			<when state="LATIN SMALL LETTER L" output="ʟ"/>
+			<when state="LATIN SMALL LETTER M" output="ᴍ"/>
+			<when state="LATIN SMALL LETTER N" output="ɴ"/>
+			<when state="LATIN SMALL LETTER O" output="ᴏ"/>
+			<when state="LATIN SMALL LETTER P" output="ᴘ"/>
+			<when state="LATIN SMALL LETTER R" output="ʀ"/>
+			<when state="LATIN SMALL LETTER T" output="ᴛ"/>
+			<when state="LATIN SMALL LETTER U" output="ᴜ"/>
+			<when state="LATIN SMALL LETTER V" output="ᴠ"/>
+			<when state="LATIN SMALL LETTER W" output="ᴡ"/>
+			<when state="LATIN SMALL LETTER Y" output="ʏ"/>
+			<when state="LATIN SMALL LETTER Z" output="ᴢ"/>
+		</action>
+		<action id="Entering MULTIPLICATION SIGN">
+			<when state="none" next="MULTIPLICATION SIGN"/>
+		</action>
+		<action id="Entering NO-BREAK SPACE">
+			<when state="none" next="NO-BREAK SPACE"/>
+			<when state="ACUTE ACCENT" output="´"/>
+			<when state="BROKEN BAR" output="¦"/>
+			<when state="CURRENCY SIGN" output="¤"/>
+			<when state="DIAERESIS" output="¨"/>
+			<when state="DIVISION SIGN" output="÷"/>
+			<when state="INVERTED EXCLAMATION MARK" output="¡"/>
+			<when state="MACRON" output="¯"/>
+			<when state="MULTIPLICATION SIGN" output="×"/>
+			<when state="PLUS-MINUS SIGN" output="±"/>
+		</action>
+		<action id="Entering PERCENT SIGN">
+			<when state="none" next="PERCENT SIGN"/>
+			<when state="CURRENCY SIGN" output="□"/>
+			<when state="DIAERESIS" output="˥"/>
+		</action>
+		<action id="Entering PLUS-MINUS SIGN">
+			<when state="none" next="PLUS-MINUS SIGN"/>
+			<when state="LATIN CAPITAL LETTER H" output="Ḫ"/>
+			<when state="LATIN SMALL LETTER H" output="ḫ"/>
+			<when state="NO-BREAK SPACE" output="̮"/>
+		</action>
+		<action id="Entering POUND SIGN">
+			<when state="none" next="POUND SIGN"/>
+			<when state="ACUTE ACCENT" output="‷"/>
+			<when state="CURRENCY SIGN" output="♢"/>
+			<when state="DIAERESIS" output="˧"/>
+		</action>
+		<action id="Entering QUOTATION MARK">
+			<when state="none" next="QUOTATION MARK"/>
+			<when state="ACUTE ACCENT" output="‶"/>
+			<when state="CURRENCY SIGN" output="♡"/>
+			<when state="DIAERESIS" output="˨"/>
+		</action>
+		<action id="Entering RIGHT PARENTHESIS">
+			<when state="none" next="RIGHT PARENTHESIS"/>
+			<when state="CURRENCY SIGN" output="☺"/>
+			<when state="DIAERESIS" output="ʾ"/>
+			<when state="DIGIT EIGHT" output="⑻"/>
+			<when state="DIGIT FIVE" output="⑸"/>
+			<when state="DIGIT FOUR" output="⑷"/>
+			<when state="DIGIT NINE" output="⑼"/>
+			<when state="DIGIT ONE" output="⑴"/>
+			<when state="DIGIT SEVEN" output="⑺"/>
+			<when state="DIGIT SIX" output="⑹"/>
+			<when state="DIGIT THREE" output="⑶"/>
+			<when state="DIGIT TWO" output="⑵"/>
+			<when state="LATIN SMALL LETTER A" output="⒜"/>
+			<when state="LATIN SMALL LETTER B" output="⒝"/>
+			<when state="LATIN SMALL LETTER C" output="⒞"/>
+			<when state="LATIN SMALL LETTER D" output="⒟"/>
+			<when state="LATIN SMALL LETTER E" output="⒠"/>
+			<when state="LATIN SMALL LETTER F" output="⒡"/>
+			<when state="LATIN SMALL LETTER G" output="⒢"/>
+			<when state="LATIN SMALL LETTER H" output="⒣"/>
+			<when state="LATIN SMALL LETTER I" output="⒤"/>
+			<when state="LATIN SMALL LETTER J" output="⒥"/>
+			<when state="LATIN SMALL LETTER K" output="⒦"/>
+			<when state="LATIN SMALL LETTER L" output="⒧"/>
+			<when state="LATIN SMALL LETTER M" output="⒨"/>
+			<when state="LATIN SMALL LETTER N" output="⒩"/>
+			<when state="LATIN SMALL LETTER O" output="⒪"/>
+			<when state="LATIN SMALL LETTER P" output="⒫"/>
+			<when state="LATIN SMALL LETTER Q" output="⒬"/>
+			<when state="LATIN SMALL LETTER R" output="⒭"/>
+			<when state="LATIN SMALL LETTER S" output="⒮"/>
+			<when state="LATIN SMALL LETTER T" output="⒯"/>
+			<when state="LATIN SMALL LETTER U" output="⒰"/>
+			<when state="LATIN SMALL LETTER V" output="⒱"/>
+			<when state="LATIN SMALL LETTER W" output="⒲"/>
+			<when state="LATIN SMALL LETTER X" output="⒳"/>
+			<when state="LATIN SMALL LETTER Y" output="⒴"/>
+			<when state="LATIN SMALL LETTER Z" output="⒵"/>
+			<when state="NO-BREAK SPACE" output="͜"/>
+			<when state="PERCENT SIGN" output="‱"/>
+		</action>
+		<action id="Entering SPACE">
+			<when state="none" next="SPACE"/>
+			<when state="ACUTE ACCENT" output="'"/>
+			<when state="AMPERSAND" output="&#x0026;"/>
+			<when state="ASTERISK" output="*"/>
+			<when state="BROKEN BAR" output="`"/>
+			<when state="CIRCUMFLEX ACCENT" output="^"/>
+			<when state="CURRENCY SIGN" output="¬"/>
+			<when state="DIAERESIS" output="\"/>
+			<when state="DIGIT EIGHT" output="8"/>
+			<when state="DIGIT FIVE" output="5"/>
+			<when state="DIGIT FOUR" output="4"/>
+			<when state="DIGIT NINE" output="9"/>
+			<when state="DIGIT ONE" output="1"/>
+			<when state="DIGIT SEVEN" output="7"/>
+			<when state="DIGIT SIX" output="6"/>
+			<when state="DIGIT THREE" output="3"/>
+			<when state="DIGIT TWO" output="2"/>
+			<when state="DIGIT ZERO" output="0"/>
+			<when state="DIVISION SIGN" output="/"/>
+			<when state="DOLLAR SIGN" output="$"/>
+			<when state="EXCLAMATION MARK" output="!"/>
+			<when state="INVERTED EXCLAMATION MARK" output="="/>
+			<when state="LATIN CAPITAL LETTER A" output="A"/>
+			<when state="LATIN CAPITAL LETTER B" output="B"/>
+			<when state="LATIN CAPITAL LETTER C" output="C"/>
+			<when state="LATIN CAPITAL LETTER D" output="D"/>
+			<when state="LATIN CAPITAL LETTER E" output="E"/>
+			<when state="LATIN CAPITAL LETTER F" output="F"/>
+			<when state="LATIN CAPITAL LETTER G" output="G"/>
+			<when state="LATIN CAPITAL LETTER H" output="H"/>
+			<when state="LATIN CAPITAL LETTER I" output="I"/>
+			<when state="LATIN CAPITAL LETTER J" output="J"/>
+			<when state="LATIN CAPITAL LETTER K" output="K"/>
+			<when state="LATIN CAPITAL LETTER L" output="L"/>
+			<when state="LATIN CAPITAL LETTER M" output="M"/>
+			<when state="LATIN CAPITAL LETTER N" output="N"/>
+			<when state="LATIN CAPITAL LETTER O" output="O"/>
+			<when state="LATIN CAPITAL LETTER P" output="P"/>
+			<when state="LATIN CAPITAL LETTER Q" output="Q"/>
+			<when state="LATIN CAPITAL LETTER R" output="R"/>
+			<when state="LATIN CAPITAL LETTER S" output="S"/>
+			<when state="LATIN CAPITAL LETTER T" output="T"/>
+			<when state="LATIN CAPITAL LETTER U" output="U"/>
+			<when state="LATIN CAPITAL LETTER V" output="V"/>
+			<when state="LATIN CAPITAL LETTER W" output="W"/>
+			<when state="LATIN CAPITAL LETTER X" output="X"/>
+			<when state="LATIN CAPITAL LETTER Y" output="Y"/>
+			<when state="LATIN CAPITAL LETTER Z" output="Z"/>
+			<when state="LATIN SMALL LETTER A" output="a"/>
+			<when state="LATIN SMALL LETTER B" output="b"/>
+			<when state="LATIN SMALL LETTER C" output="c"/>
+			<when state="LATIN SMALL LETTER D" output="d"/>
+			<when state="LATIN SMALL LETTER E" output="e"/>
+			<when state="LATIN SMALL LETTER F" output="f"/>
+			<when state="LATIN SMALL LETTER G" output="g"/>
+			<when state="LATIN SMALL LETTER H" output="h"/>
+			<when state="LATIN SMALL LETTER I" output="i"/>
+			<when state="LATIN SMALL LETTER J" output="j"/>
+			<when state="LATIN SMALL LETTER K" output="k"/>
+			<when state="LATIN SMALL LETTER L" output="l"/>
+			<when state="LATIN SMALL LETTER M" output="m"/>
+			<when state="LATIN SMALL LETTER N" output="n"/>
+			<when state="LATIN SMALL LETTER O" output="o"/>
+			<when state="LATIN SMALL LETTER P" output="p"/>
+			<when state="LATIN SMALL LETTER Q" output="q"/>
+			<when state="LATIN SMALL LETTER R" output="r"/>
+			<when state="LATIN SMALL LETTER S" output="s"/>
+			<when state="LATIN SMALL LETTER T" output="t"/>
+			<when state="LATIN SMALL LETTER U" output="u"/>
+			<when state="LATIN SMALL LETTER V" output="v"/>
+			<when state="LATIN SMALL LETTER W" output="w"/>
+			<when state="LATIN SMALL LETTER X" output="x"/>
+			<when state="LATIN SMALL LETTER Y" output="y"/>
+			<when state="LATIN SMALL LETTER Z" output="z"/>
+			<when state="LEFT PARENTHESIS" output="("/>
+			<when state="MACRON" output="|"/>
+			<when state="MULTIPLICATION SIGN" output="?"/>
+			<when state="NO-BREAK SPACE" output="a"/>
+			<when state="PERCENT SIGN" output="%"/>
+			<when state="PLUS-MINUS SIGN" output="+"/>
+			<when state="POUND SIGN" output="£"/>
+			<when state="QUOTATION MARK" output='"'/>
+			<when state="RIGHT PARENTHESIS" output=")"/>
+			<when state="SPACE" output=" "/>
+		</action>
+		<action id=" ">
+			<when state="none" output=" "/>
+			<when state="ACUTE ACCENT" output="'"/>
+			<when state="AMPERSAND" output="&#x0026;"/>
+			<when state="ASTERISK" output="*"/>
+			<when state="BROKEN BAR" output="`"/>
+			<when state="CIRCUMFLEX ACCENT" output="^"/>
+			<when state="CURRENCY SIGN" output="¬"/>
+			<when state="DIAERESIS" output="\"/>
+			<when state="DIGIT EIGHT" output="8"/>
+			<when state="DIGIT FIVE" output="5"/>
+			<when state="DIGIT FOUR" output="4"/>
+			<when state="DIGIT NINE" output="9"/>
+			<when state="DIGIT ONE" output="1"/>
+			<when state="DIGIT SEVEN" output="7"/>
+			<when state="DIGIT SIX" output="6"/>
+			<when state="DIGIT THREE" output="3"/>
+			<when state="DIGIT TWO" output="2"/>
+			<when state="DIGIT ZERO" output="0"/>
+			<when state="DIVISION SIGN" output="/"/>
+			<when state="DOLLAR SIGN" output="$"/>
+			<when state="EXCLAMATION MARK" output="!"/>
+			<when state="INVERTED EXCLAMATION MARK" output="="/>
+			<when state="LATIN CAPITAL LETTER A" output="A"/>
+			<when state="LATIN CAPITAL LETTER B" output="B"/>
+			<when state="LATIN CAPITAL LETTER C" output="C"/>
+			<when state="LATIN CAPITAL LETTER D" output="D"/>
+			<when state="LATIN CAPITAL LETTER E" output="E"/>
+			<when state="LATIN CAPITAL LETTER F" output="F"/>
+			<when state="LATIN CAPITAL LETTER G" output="G"/>
+			<when state="LATIN CAPITAL LETTER H" output="H"/>
+			<when state="LATIN CAPITAL LETTER I" output="I"/>
+			<when state="LATIN CAPITAL LETTER J" output="J"/>
+			<when state="LATIN CAPITAL LETTER K" output="K"/>
+			<when state="LATIN CAPITAL LETTER L" output="L"/>
+			<when state="LATIN CAPITAL LETTER M" output="M"/>
+			<when state="LATIN CAPITAL LETTER N" output="N"/>
+			<when state="LATIN CAPITAL LETTER O" output="O"/>
+			<when state="LATIN CAPITAL LETTER P" output="P"/>
+			<when state="LATIN CAPITAL LETTER Q" output="Q"/>
+			<when state="LATIN CAPITAL LETTER R" output="R"/>
+			<when state="LATIN CAPITAL LETTER S" output="S"/>
+			<when state="LATIN CAPITAL LETTER T" output="T"/>
+			<when state="LATIN CAPITAL LETTER U" output="U"/>
+			<when state="LATIN CAPITAL LETTER V" output="V"/>
+			<when state="LATIN CAPITAL LETTER W" output="W"/>
+			<when state="LATIN CAPITAL LETTER X" output="X"/>
+			<when state="LATIN CAPITAL LETTER Y" output="Y"/>
+			<when state="LATIN CAPITAL LETTER Z" output="Z"/>
+			<when state="LATIN SMALL LETTER A" output="a"/>
+			<when state="LATIN SMALL LETTER B" output="b"/>
+			<when state="LATIN SMALL LETTER C" output="c"/>
+			<when state="LATIN SMALL LETTER D" output="d"/>
+			<when state="LATIN SMALL LETTER E" output="e"/>
+			<when state="LATIN SMALL LETTER F" output="f"/>
+			<when state="LATIN SMALL LETTER G" output="g"/>
+			<when state="LATIN SMALL LETTER H" output="h"/>
+			<when state="LATIN SMALL LETTER I" output="i"/>
+			<when state="LATIN SMALL LETTER J" output="j"/>
+			<when state="LATIN SMALL LETTER K" output="k"/>
+			<when state="LATIN SMALL LETTER L" output="l"/>
+			<when state="LATIN SMALL LETTER M" output="m"/>
+			<when state="LATIN SMALL LETTER N" output="n"/>
+			<when state="LATIN SMALL LETTER O" output="o"/>
+			<when state="LATIN SMALL LETTER P" output="p"/>
+			<when state="LATIN SMALL LETTER Q" output="q"/>
+			<when state="LATIN SMALL LETTER R" output="r"/>
+			<when state="LATIN SMALL LETTER S" output="s"/>
+			<when state="LATIN SMALL LETTER T" output="t"/>
+			<when state="LATIN SMALL LETTER U" output="u"/>
+			<when state="LATIN SMALL LETTER V" output="v"/>
+			<when state="LATIN SMALL LETTER W" output="w"/>
+			<when state="LATIN SMALL LETTER X" output="x"/>
+			<when state="LATIN SMALL LETTER Y" output="y"/>
+			<when state="LATIN SMALL LETTER Z" output="z"/>
+			<when state="LEFT PARENTHESIS" output="("/>
+			<when state="MACRON" output="|"/>
+			<when state="MULTIPLICATION SIGN" output="?"/>
+			<when state="NO-BREAK SPACE" output="a"/>
+			<when state="PERCENT SIGN" output="%"/>
+			<when state="PLUS-MINUS SIGN" output="+"/>
+			<when state="POUND SIGN" output="£"/>
+			<when state="QUOTATION MARK" output='"'/>
+			<when state="RIGHT PARENTHESIS" output=")"/>
+			<when state="SPACE" output=" "/>
+		</action>
+		<action id="!">
+			<when state="none" output="!"/>
+			<when state="ACUTE ACCENT" output="‵"/>
+			<when state="CURRENCY SIGN" output="♤"/>
+			<when state="DIAERESIS" output="˩"/>
+			<when state="MULTIPLICATION SIGN" output="‽"/>
+		</action>
+		<action id='"'>
+			<when state="none" output='"'/>
+			<when state="ACUTE ACCENT" output="‶"/>
+			<when state="CURRENCY SIGN" output="♡"/>
+			<when state="DIAERESIS" output="˨"/>
+		</action>
+		<action id="$">
+			<when state="none" output="$"/>
+			<when state="CURRENCY SIGN" output="♧"/>
+			<when state="DIAERESIS" output="˦"/>
+			<when state="LATIN CAPITAL LETTER C" output="₡"/>
+			<when state="LATIN CAPITAL LETTER S" output="₴"/>
+			<when state="LATIN SMALL LETTER C" output="¢"/>
+			<when state="LATIN SMALL LETTER D" output="₫"/>
+			<when state="LATIN SMALL LETTER E" output="€"/>
+			<when state="LATIN SMALL LETTER G" output="₲"/>
+			<when state="LATIN SMALL LETTER K" output="₭"/>
+			<when state="LATIN SMALL LETTER L" output="£"/>
+			<when state="LATIN SMALL LETTER M" output="₥"/>
+			<when state="LATIN SMALL LETTER N" output="₦"/>
+			<when state="LATIN SMALL LETTER P" output="₱"/>
+			<when state="LATIN SMALL LETTER R" output="₨"/>
+			<when state="LATIN SMALL LETTER S" output="₪"/>
+			<when state="LATIN SMALL LETTER T" output="₮"/>
+			<when state="LATIN SMALL LETTER W" output="₩"/>
+			<when state="LATIN SMALL LETTER X" output="¤"/>
+			<when state="LATIN SMALL LETTER Y" output="¥"/>
+		</action>
+		<action id="%">
+			<when state="none" output="%"/>
+			<when state="CURRENCY SIGN" output="□"/>
+			<when state="DIAERESIS" output="˥"/>
+		</action>
+		<action id="&#x0026;">
+			<when state="none" output="&#x0026;"/>
+			<when state="CURRENCY SIGN" output="☆"/>
+			<when state="NO-BREAK SPACE" output="̠"/>
+		</action>
+		<action id="'">
+			<when state="none" output="'"/>
+			<when state="BROKEN BAR" output="ʹ"/>
+			<when state="DIAERESIS" output="ʼ"/>
+			<when state="LATIN CAPITAL LETTER O" output="Ơ"/>
+			<when state="LATIN CAPITAL LETTER U" output="Ư"/>
+			<when state="LATIN SMALL LETTER O" output="ơ"/>
+			<when state="LATIN SMALL LETTER U" output="ư"/>
+			<when state="NO-BREAK SPACE" output="̛"/>
+		</action>
+		<action id="(">
+			<when state="none" output="("/>
+			<when state="CURRENCY SIGN" output="☼"/>
+			<when state="DIAERESIS" output="ʿ"/>
+			<when state="NO-BREAK SPACE" output="͡"/>
+		</action>
+		<action id=")">
+			<when state="none" output=")"/>
+			<when state="CURRENCY SIGN" output="☺"/>
+			<when state="DIAERESIS" output="ʾ"/>
+			<when state="DIGIT EIGHT" output="⑻"/>
+			<when state="DIGIT FIVE" output="⑸"/>
+			<when state="DIGIT FOUR" output="⑷"/>
+			<when state="DIGIT NINE" output="⑼"/>
+			<when state="DIGIT ONE" output="⑴"/>
+			<when state="DIGIT SEVEN" output="⑺"/>
+			<when state="DIGIT SIX" output="⑹"/>
+			<when state="DIGIT THREE" output="⑶"/>
+			<when state="DIGIT TWO" output="⑵"/>
+			<when state="LATIN SMALL LETTER A" output="⒜"/>
+			<when state="LATIN SMALL LETTER B" output="⒝"/>
+			<when state="LATIN SMALL LETTER C" output="⒞"/>
+			<when state="LATIN SMALL LETTER D" output="⒟"/>
+			<when state="LATIN SMALL LETTER E" output="⒠"/>
+			<when state="LATIN SMALL LETTER F" output="⒡"/>
+			<when state="LATIN SMALL LETTER G" output="⒢"/>
+			<when state="LATIN SMALL LETTER H" output="⒣"/>
+			<when state="LATIN SMALL LETTER I" output="⒤"/>
+			<when state="LATIN SMALL LETTER J" output="⒥"/>
+			<when state="LATIN SMALL LETTER K" output="⒦"/>
+			<when state="LATIN SMALL LETTER L" output="⒧"/>
+			<when state="LATIN SMALL LETTER M" output="⒨"/>
+			<when state="LATIN SMALL LETTER N" output="⒩"/>
+			<when state="LATIN SMALL LETTER O" output="⒪"/>
+			<when state="LATIN SMALL LETTER P" output="⒫"/>
+			<when state="LATIN SMALL LETTER Q" output="⒬"/>
+			<when state="LATIN SMALL LETTER R" output="⒭"/>
+			<when state="LATIN SMALL LETTER S" output="⒮"/>
+			<when state="LATIN SMALL LETTER T" output="⒯"/>
+			<when state="LATIN SMALL LETTER U" output="⒰"/>
+			<when state="LATIN SMALL LETTER V" output="⒱"/>
+			<when state="LATIN SMALL LETTER W" output="⒲"/>
+			<when state="LATIN SMALL LETTER X" output="⒳"/>
+			<when state="LATIN SMALL LETTER Y" output="⒴"/>
+			<when state="LATIN SMALL LETTER Z" output="⒵"/>
+			<when state="NO-BREAK SPACE" output="͜"/>
+			<when state="PERCENT SIGN" output="‱"/>
+		</action>
+		<action id="*">
+			<when state="none" output="*"/>
+			<when state="ASTERISK" output="∗"/>
+			<when state="CURRENCY SIGN" output="☏"/>
+			<when state="NO-BREAK SPACE" output="̟"/>
+		</action>
+		<action id="+">
+			<when state="none" output="+"/>
+			<when state="LATIN CAPITAL LETTER A" output="Ă"/>
+			<when state="LATIN CAPITAL LETTER E" output="Ĕ"/>
+			<when state="LATIN CAPITAL LETTER G" output="Ğ"/>
+			<when state="LATIN CAPITAL LETTER I" output="Ĭ"/>
+			<when state="LATIN CAPITAL LETTER O" output="Ŏ"/>
+			<when state="LATIN CAPITAL LETTER U" output="Ŭ"/>
+			<when state="LATIN SMALL LETTER A" output="ă"/>
+			<when state="LATIN SMALL LETTER E" output="ĕ"/>
+			<when state="LATIN SMALL LETTER G" output="ğ"/>
+			<when state="LATIN SMALL LETTER I" output="ĭ"/>
+			<when state="LATIN SMALL LETTER O" output="ŏ"/>
+			<when state="LATIN SMALL LETTER U" output="ŭ"/>
+			<when state="NO-BREAK SPACE" output="̆"/>
+			<when state="SPACE" output="˘"/>
+		</action>
+		<action id=",">
+			<when state="none" output=","/>
+			<when state="BROKEN BAR" output="͵"/>
+			<when state="LATIN CAPITAL LETTER D" output="Ḑ"/>
+			<when state="LATIN CAPITAL LETTER G" output="Ģ"/>
+			<when state="LATIN CAPITAL LETTER K" output="Ķ"/>
+			<when state="LATIN CAPITAL LETTER L" output="Ļ"/>
+			<when state="LATIN CAPITAL LETTER N" output="Ņ"/>
+			<when state="LATIN CAPITAL LETTER R" output="Ŗ"/>
+			<when state="LATIN CAPITAL LETTER S" output="Ș"/>
+			<when state="LATIN CAPITAL LETTER T" output="Ț"/>
+			<when state="LATIN SMALL LETTER D" output="ḑ"/>
+			<when state="LATIN SMALL LETTER G" output="ģ"/>
+			<when state="LATIN SMALL LETTER K" output="ķ"/>
+			<when state="LATIN SMALL LETTER L" output="ļ"/>
+			<when state="LATIN SMALL LETTER N" output="ņ"/>
+			<when state="LATIN SMALL LETTER R" output="ŗ"/>
+			<when state="LATIN SMALL LETTER S" output="ș"/>
+			<when state="LATIN SMALL LETTER T" output="ț"/>
+			<when state="NO-BREAK SPACE" output="̦"/>
+			<when state="SPACE" output=","/>
+		</action>
+		<action id="-">
+			<when state="none" output="-"/>
+			<when state="DIGIT TWO" output="ƻ"/>
+			<when state="INVERTED EXCLAMATION MARK" output="≡"/>
+			<when state="LATIN CAPITAL LETTER B" output="Ƀ"/>
+			<when state="LATIN CAPITAL LETTER D" output="Đ"/>
+			<when state="LATIN CAPITAL LETTER G" output="Ǥ"/>
+			<when state="LATIN CAPITAL LETTER H" output="Ħ"/>
+			<when state="LATIN CAPITAL LETTER I" output="Ɨ"/>
+			<when state="LATIN CAPITAL LETTER J" output="Ɉ"/>
+			<when state="LATIN CAPITAL LETTER L" output="Ƚ"/>
+			<when state="LATIN CAPITAL LETTER O" output="Ɵ"/>
+			<when state="LATIN CAPITAL LETTER P" output="Ᵽ"/>
+			<when state="LATIN CAPITAL LETTER R" output="Ɍ"/>
+			<when state="LATIN CAPITAL LETTER T" output="Ŧ"/>
+			<when state="LATIN CAPITAL LETTER U" output="Ʉ"/>
+			<when state="LATIN CAPITAL LETTER Y" output="Ɏ"/>
+			<when state="LATIN CAPITAL LETTER Z" output="Ƶ"/>
+			<when state="LATIN SMALL LETTER B" output="ƀ"/>
+			<when state="LATIN SMALL LETTER D" output="đ"/>
+			<when state="LATIN SMALL LETTER G" output="ǥ"/>
+			<when state="LATIN SMALL LETTER H" output="ħ"/>
+			<when state="LATIN SMALL LETTER I" output="ɨ"/>
+			<when state="LATIN SMALL LETTER J" output="ɉ"/>
+			<when state="LATIN SMALL LETTER L" output="ƚ"/>
+			<when state="LATIN SMALL LETTER O" output="ɵ"/>
+			<when state="LATIN SMALL LETTER P" output="ᵽ"/>
+			<when state="LATIN SMALL LETTER R" output="ɍ"/>
+			<when state="LATIN SMALL LETTER T" output="ŧ"/>
+			<when state="LATIN SMALL LETTER U" output="ʉ"/>
+			<when state="LATIN SMALL LETTER Y" output="ɏ"/>
+			<when state="LATIN SMALL LETTER Z" output="ƶ"/>
+			<when state="NO-BREAK SPACE" output="̵"/>
+			<when state="PLUS-MINUS SIGN" output="±"/>
+		</action>
+		<action id=".">
+			<when state="none" output="."/>
+			<when state="ASTERISK" output="·"/>
+			<when state="BROKEN BAR" output="·"/>
+			<when state="DIGIT EIGHT" output="⒏"/>
+			<when state="DIGIT FIVE" output="⒌"/>
+			<when state="DIGIT FOUR" output="⒋"/>
+			<when state="DIGIT NINE" output="⒐"/>
+			<when state="DIGIT ONE" output="⒈"/>
+			<when state="DIGIT SEVEN" output="⒎"/>
+			<when state="DIGIT SIX" output="⒍"/>
+			<when state="DIGIT THREE" output="⒊"/>
+			<when state="DIGIT TWO" output="⒉"/>
+			<when state="LATIN CAPITAL LETTER A" output="Ȧ"/>
+			<when state="LATIN CAPITAL LETTER B" output="Ḃ"/>
+			<when state="LATIN CAPITAL LETTER C" output="Ċ"/>
+			<when state="LATIN CAPITAL LETTER D" output="Ḋ"/>
+			<when state="LATIN CAPITAL LETTER E" output="Ė"/>
+			<when state="LATIN CAPITAL LETTER F" output="Ḟ"/>
+			<when state="LATIN CAPITAL LETTER G" output="Ġ"/>
+			<when state="LATIN CAPITAL LETTER H" output="Ḣ"/>
+			<when state="LATIN CAPITAL LETTER I" output="İ"/>
+			<when state="LATIN CAPITAL LETTER L" output="Ŀ"/>
+			<when state="LATIN CAPITAL LETTER M" output="Ṁ"/>
+			<when state="LATIN CAPITAL LETTER N" output="Ṅ"/>
+			<when state="LATIN CAPITAL LETTER O" output="Ȯ"/>
+			<when state="LATIN CAPITAL LETTER P" output="Ṗ"/>
+			<when state="LATIN CAPITAL LETTER R" output="Ṙ"/>
+			<when state="LATIN CAPITAL LETTER S" output="Ṡ"/>
+			<when state="LATIN CAPITAL LETTER T" output="Ṫ"/>
+			<when state="LATIN CAPITAL LETTER W" output="Ẇ"/>
+			<when state="LATIN CAPITAL LETTER X" output="Ẋ"/>
+			<when state="LATIN CAPITAL LETTER Y" output="Ẏ"/>
+			<when state="LATIN CAPITAL LETTER Z" output="Ż"/>
+			<when state="LATIN SMALL LETTER A" output="ȧ"/>
+			<when state="LATIN SMALL LETTER B" output="ḃ"/>
+			<when state="LATIN SMALL LETTER C" output="ċ"/>
+			<when state="LATIN SMALL LETTER D" output="ḋ"/>
+			<when state="LATIN SMALL LETTER E" output="ė"/>
+			<when state="LATIN SMALL LETTER F" output="ḟ"/>
+			<when state="LATIN SMALL LETTER G" output="ġ"/>
+			<when state="LATIN SMALL LETTER H" output="ḣ"/>
+			<when state="LATIN SMALL LETTER I" output="ı"/>
+			<when state="LATIN SMALL LETTER J" output="ȷ"/>
+			<when state="LATIN SMALL LETTER L" output="ŀ"/>
+			<when state="LATIN SMALL LETTER M" output="ṁ"/>
+			<when state="LATIN SMALL LETTER N" output="ṅ"/>
+			<when state="LATIN SMALL LETTER O" output="ȯ"/>
+			<when state="LATIN SMALL LETTER P" output="ṗ"/>
+			<when state="LATIN SMALL LETTER R" output="ṙ"/>
+			<when state="LATIN SMALL LETTER S" output="ṡ"/>
+			<when state="LATIN SMALL LETTER T" output="ṫ"/>
+			<when state="LATIN SMALL LETTER W" output="ẇ"/>
+			<when state="LATIN SMALL LETTER X" output="ẋ"/>
+			<when state="LATIN SMALL LETTER Y" output="ẏ"/>
+			<when state="LATIN SMALL LETTER Z" output="ż"/>
+			<when state="NO-BREAK SPACE" output="̇"/>
+			<when state="PLUS-MINUS SIGN" output="∔"/>
+			<when state="SPACE" output="˙"/>
+		</action>
+		<action id="/">
+			<when state="none" output="/"/>
+			<when state="ASTERISK" output="⋇"/>
+			<when state="CIRCUMFLEX ACCENT" output="⁁"/>
+			<when state="DIGIT ONE" output="⅟"/>
+			<when state="INVERTED EXCLAMATION MARK" output="≠"/>
+			<when state="LATIN CAPITAL LETTER A" output="Ⱥ"/>
+			<when state="LATIN CAPITAL LETTER C" output="Ȼ"/>
+			<when state="LATIN CAPITAL LETTER E" output="Ɇ"/>
+			<when state="LATIN CAPITAL LETTER L" output="Ł"/>
+			<when state="LATIN CAPITAL LETTER O" output="Ø"/>
+			<when state="LATIN CAPITAL LETTER R" output="℟"/>
+			<when state="LATIN CAPITAL LETTER T" output="Ⱦ"/>
+			<when state="LATIN SMALL LETTER A" output="ⱥ"/>
+			<when state="LATIN SMALL LETTER C" output="ȼ"/>
+			<when state="LATIN SMALL LETTER E" output="ɇ"/>
+			<when state="LATIN SMALL LETTER L" output="ł"/>
+			<when state="LATIN SMALL LETTER O" output="ø"/>
+			<when state="LATIN SMALL LETTER T" output="ⱦ"/>
+			<when state="NO-BREAK SPACE" output="̷"/>
+		</action>
+		<action id="0">
+			<when state="none" output="0"/>
+			<when state="CURRENCY SIGN" output="☻"/>
+			<when state="DIAERESIS" output="˒"/>
+			<when state="DIGIT EIGHT" output="⑧"/>
+			<when state="DIGIT FIVE" output="⑤"/>
+			<when state="DIGIT FOUR" output="④"/>
+			<when state="DIGIT NINE" output="⑨"/>
+			<when state="DIGIT ONE" output="①"/>
+			<when state="DIGIT SEVEN" output="⑦"/>
+			<when state="DIGIT SIX" output="⑥"/>
+			<when state="DIGIT THREE" output="③"/>
+			<when state="DIGIT TWO" output="②"/>
+			<when state="DIGIT ZERO" output="⓪"/>
+			<when state="INVERTED EXCLAMATION MARK" output="⊢"/>
+			<when state="LATIN CAPITAL LETTER A" output="Ⓐ"/>
+			<when state="LATIN CAPITAL LETTER B" output="Ⓑ"/>
+			<when state="LATIN CAPITAL LETTER C" output="Ⓒ"/>
+			<when state="LATIN CAPITAL LETTER D" output="Ⓓ"/>
+			<when state="LATIN CAPITAL LETTER E" output="Ⓔ"/>
+			<when state="LATIN CAPITAL LETTER F" output="Ⓕ"/>
+			<when state="LATIN CAPITAL LETTER G" output="Ⓖ"/>
+			<when state="LATIN CAPITAL LETTER H" output="Ⓗ"/>
+			<when state="LATIN CAPITAL LETTER I" output="Ⓘ"/>
+			<when state="LATIN CAPITAL LETTER J" output="Ⓙ"/>
+			<when state="LATIN CAPITAL LETTER K" output="Ⓚ"/>
+			<when state="LATIN CAPITAL LETTER L" output="Ⓛ"/>
+			<when state="LATIN CAPITAL LETTER M" output="Ⓜ"/>
+			<when state="LATIN CAPITAL LETTER N" output="Ⓝ"/>
+			<when state="LATIN CAPITAL LETTER O" output="Ⓞ"/>
+			<when state="LATIN CAPITAL LETTER P" output="Ⓟ"/>
+			<when state="LATIN CAPITAL LETTER Q" output="Ⓠ"/>
+			<when state="LATIN CAPITAL LETTER R" output="Ⓡ"/>
+			<when state="LATIN CAPITAL LETTER S" output="Ⓢ"/>
+			<when state="LATIN CAPITAL LETTER T" output="Ⓣ"/>
+			<when state="LATIN CAPITAL LETTER U" output="Ⓤ"/>
+			<when state="LATIN CAPITAL LETTER V" output="Ⓥ"/>
+			<when state="LATIN CAPITAL LETTER W" output="Ⓦ"/>
+			<when state="LATIN CAPITAL LETTER X" output="Ⓧ"/>
+			<when state="LATIN CAPITAL LETTER Y" output="Ⓨ"/>
+			<when state="LATIN CAPITAL LETTER Z" output="Ⓩ"/>
+			<when state="LATIN SMALL LETTER A" output="ⓐ"/>
+			<when state="LATIN SMALL LETTER B" output="ⓑ"/>
+			<when state="LATIN SMALL LETTER C" output="ⓒ"/>
+			<when state="LATIN SMALL LETTER D" output="ⓓ"/>
+			<when state="LATIN SMALL LETTER E" output="ⓔ"/>
+			<when state="LATIN SMALL LETTER F" output="ⓕ"/>
+			<when state="LATIN SMALL LETTER G" output="ⓖ"/>
+			<when state="LATIN SMALL LETTER H" output="ⓗ"/>
+			<when state="LATIN SMALL LETTER I" output="ⓘ"/>
+			<when state="LATIN SMALL LETTER J" output="ⓙ"/>
+			<when state="LATIN SMALL LETTER K" output="ⓚ"/>
+			<when state="LATIN SMALL LETTER L" output="ⓛ"/>
+			<when state="LATIN SMALL LETTER M" output="ⓜ"/>
+			<when state="LATIN SMALL LETTER N" output="ⓝ"/>
+			<when state="LATIN SMALL LETTER O" output="ⓞ"/>
+			<when state="LATIN SMALL LETTER P" output="ⓟ"/>
+			<when state="LATIN SMALL LETTER Q" output="ⓠ"/>
+			<when state="LATIN SMALL LETTER R" output="ⓡ"/>
+			<when state="LATIN SMALL LETTER S" output="ⓢ"/>
+			<when state="LATIN SMALL LETTER T" output="ⓣ"/>
+			<when state="LATIN SMALL LETTER U" output="ⓤ"/>
+			<when state="LATIN SMALL LETTER V" output="ⓥ"/>
+			<when state="LATIN SMALL LETTER W" output="ⓦ"/>
+			<when state="LATIN SMALL LETTER X" output="ⓧ"/>
+			<when state="LATIN SMALL LETTER Y" output="ⓨ"/>
+			<when state="LATIN SMALL LETTER Z" output="ⓩ"/>
+			<when state="NO-BREAK SPACE" output="̙"/>
+			<when state="PERCENT SIGN" output="‰"/>
+		</action>
+		<action id="1">
+			<when state="none" output="1"/>
+			<when state="ACUTE ACCENT" output="′"/>
+			<when state="ASTERISK" output="†"/>
+			<when state="CURRENCY SIGN" output="♠"/>
+			<when state="DIAERESIS" output="ˈ"/>
+			<when state="NO-BREAK SPACE" output="̍"/>
+		</action>
+		<action id="2">
+			<when state="none" output="2"/>
+			<when state="ACUTE ACCENT" output="″"/>
+			<when state="ASTERISK" output="‡"/>
+			<when state="CURRENCY SIGN" output="♥"/>
+			<when state="DIAERESIS" output="ˌ"/>
+			<when state="DIGIT ONE" output="½"/>
+			<when state="DIVISION SIGN" output="√"/>
+			<when state="EXCLAMATION MARK" output="‼"/>
+			<when state="MACRON" output="‖"/>
+			<when state="NO-BREAK SPACE" output="̩"/>
+		</action>
+		<action id="3">
+			<when state="none" output="3"/>
+			<when state="ACUTE ACCENT" output="‴"/>
+			<when state="ASTERISK" output="⁂"/>
+			<when state="CURRENCY SIGN" output="♦"/>
+			<when state="DIVISION SIGN" output="∛"/>
+			<when state="NO-BREAK SPACE" output="̻"/>
+			<when state="SPACE" output=" "/>
+		</action>
+		<action id="4">
+			<when state="none" output="4"/>
+			<when state="ACUTE ACCENT" output="⁗"/>
+			<when state="CURRENCY SIGN" output="♣"/>
+			<when state="DIGIT ONE" output="¼"/>
+			<when state="DIGIT THREE" output="¾"/>
+			<when state="DIVISION SIGN" output="∜"/>
+			<when state="NO-BREAK SPACE" output="̪"/>
+			<when state="SPACE" output=" "/>
+		</action>
+		<action id="5">
+			<when state="none" output="5"/>
+			<when state="CURRENCY SIGN" output="■"/>
+			<when state="NO-BREAK SPACE" output="̺"/>
+		</action>
+		<action id="6">
+			<when state="none" output="6"/>
+			<when state="CURRENCY SIGN" output="●"/>
+			<when state="NO-BREAK SPACE" output="͆"/>
+			<when state="SPACE" output=" "/>
+		</action>
+		<action id="7">
+			<when state="none" output="7"/>
+			<when state="CURRENCY SIGN" output="★"/>
+			<when state="DIAERESIS" output="˔"/>
+			<when state="INVERTED EXCLAMATION MARK" output="⊥"/>
+			<when state="NO-BREAK SPACE" output="̝"/>
+		</action>
+		<action id="8">
+			<when state="none" output="8"/>
+			<when state="CURRENCY SIGN" output="☎"/>
+			<when state="DIAERESIS" output="˕"/>
+			<when state="DIGIT FIVE" output="⅝"/>
+			<when state="DIGIT ONE" output="⅛"/>
+			<when state="DIGIT SEVEN" output="⅞"/>
+			<when state="DIGIT THREE" output="⅜"/>
+			<when state="INVERTED EXCLAMATION MARK" output="⊤"/>
+			<when state="NO-BREAK SPACE" output="̞"/>
+		</action>
+		<action id="9">
+			<when state="none" output="9"/>
+			<when state="CURRENCY SIGN" output="☀"/>
+			<when state="DIAERESIS" output="˓"/>
+			<when state="INVERTED EXCLAMATION MARK" output="⊣"/>
+			<when state="NO-BREAK SPACE" output="̘"/>
+		</action>
+		<action id=":">
+			<when state="none" output=":"/>
+			<when state="DIAERESIS" output="ː"/>
+			<when state="DIVISION SIGN" output="÷"/>
+			<when state="LATIN CAPITAL LETTER A" output="Ä"/>
+			<when state="LATIN CAPITAL LETTER E" output="Ë"/>
+			<when state="LATIN CAPITAL LETTER H" output="Ḧ"/>
+			<when state="LATIN CAPITAL LETTER I" output="Ï"/>
+			<when state="LATIN CAPITAL LETTER O" output="Ö"/>
+			<when state="LATIN CAPITAL LETTER U" output="Ü"/>
+			<when state="LATIN CAPITAL LETTER W" output="Ẅ"/>
+			<when state="LATIN CAPITAL LETTER X" output="Ẍ"/>
+			<when state="LATIN CAPITAL LETTER Y" output="Ÿ"/>
+			<when state="LATIN SMALL LETTER A" output="ä"/>
+			<when state="LATIN SMALL LETTER E" output="ë"/>
+			<when state="LATIN SMALL LETTER H" output="ḧ"/>
+			<when state="LATIN SMALL LETTER I" output="ï"/>
+			<when state="LATIN SMALL LETTER O" output="ö"/>
+			<when state="LATIN SMALL LETTER T" output="ẗ"/>
+			<when state="LATIN SMALL LETTER U" output="ü"/>
+			<when state="LATIN SMALL LETTER W" output="ẅ"/>
+			<when state="LATIN SMALL LETTER X" output="ẍ"/>
+			<when state="LATIN SMALL LETTER Y" output="ÿ"/>
+			<when state="NO-BREAK SPACE" output="̈"/>
+			<when state="SPACE" output="¨"/>
+		</action>
+		<action id=";">
+			<when state="none" output=";"/>
+			<when state="BROKEN BAR" output=";"/>
+			<when state="DIAERESIS" output="ˑ"/>
+			<when state="LATIN CAPITAL LETTER C" output="Ç"/>
+			<when state="LATIN CAPITAL LETTER E" output="Ȩ"/>
+			<when state="LATIN CAPITAL LETTER H" output="Ḩ"/>
+			<when state="LATIN CAPITAL LETTER S" output="Ş"/>
+			<when state="LATIN CAPITAL LETTER T" output="Ţ"/>
+			<when state="LATIN SMALL LETTER C" output="ç"/>
+			<when state="LATIN SMALL LETTER E" output="Ȩ"/>
+			<when state="LATIN SMALL LETTER H" output="ḩ"/>
+			<when state="LATIN SMALL LETTER S" output="ş"/>
+			<when state="LATIN SMALL LETTER T" output="ţ"/>
+			<when state="NO-BREAK SPACE" output="̧"/>
+			<when state="SPACE" output="¸"/>
+		</action>
+		<action id="&#x003C;">
+			<when state="none" output="&#x003C;"/>
+			<when state="DIAERESIS" output="ˇ"/>
+			<when state="INVERTED EXCLAMATION MARK" output="≤"/>
+			<when state="LATIN CAPITAL LETTER A" output="Ǎ"/>
+			<when state="LATIN CAPITAL LETTER C" output="Č"/>
+			<when state="LATIN CAPITAL LETTER D" output="Ď"/>
+			<when state="LATIN CAPITAL LETTER E" output="Ě"/>
+			<when state="LATIN CAPITAL LETTER G" output="Ǧ"/>
+			<when state="LATIN CAPITAL LETTER H" output="Ȟ"/>
+			<when state="LATIN CAPITAL LETTER I" output="Ǐ"/>
+			<when state="LATIN CAPITAL LETTER K" output="Ǩ"/>
+			<when state="LATIN CAPITAL LETTER L" output="Ľ"/>
+			<when state="LATIN CAPITAL LETTER N" output="Ň"/>
+			<when state="LATIN CAPITAL LETTER O" output="Ǒ"/>
+			<when state="LATIN CAPITAL LETTER R" output="Ř"/>
+			<when state="LATIN CAPITAL LETTER S" output="Š"/>
+			<when state="LATIN CAPITAL LETTER T" output="Ť"/>
+			<when state="LATIN CAPITAL LETTER U" output="Ǔ"/>
+			<when state="LATIN CAPITAL LETTER Z" output="Ž"/>
+			<when state="LATIN SMALL LETTER A" output="ǎ"/>
+			<when state="LATIN SMALL LETTER C" output="č"/>
+			<when state="LATIN SMALL LETTER D" output="ď"/>
+			<when state="LATIN SMALL LETTER E" output="ě"/>
+			<when state="LATIN SMALL LETTER G" output="ǧ"/>
+			<when state="LATIN SMALL LETTER H" output="ȟ"/>
+			<when state="LATIN SMALL LETTER I" output="ǐ"/>
+			<when state="LATIN SMALL LETTER J" output="ǰ"/>
+			<when state="LATIN SMALL LETTER K" output="ǩ"/>
+			<when state="LATIN SMALL LETTER L" output="ľ"/>
+			<when state="LATIN SMALL LETTER N" output="ň"/>
+			<when state="LATIN SMALL LETTER O" output="ǒ"/>
+			<when state="LATIN SMALL LETTER R" output="ř"/>
+			<when state="LATIN SMALL LETTER S" output="š"/>
+			<when state="LATIN SMALL LETTER T" output="ť"/>
+			<when state="LATIN SMALL LETTER U" output="ǔ"/>
+			<when state="LATIN SMALL LETTER Z" output="ž"/>
+			<when state="NO-BREAK SPACE" output="̌"/>
+		</action>
+		<action id="=">
+			<when state="none" output="="/>
+			<when state="LATIN CAPITAL LETTER A" output="Ȃ"/>
+			<when state="LATIN CAPITAL LETTER E" output="Ȇ"/>
+			<when state="LATIN CAPITAL LETTER I" output="Ȋ"/>
+			<when state="LATIN CAPITAL LETTER O" output="Ȏ"/>
+			<when state="LATIN CAPITAL LETTER R" output="Ȓ"/>
+			<when state="LATIN CAPITAL LETTER U" output="Ȗ"/>
+			<when state="LATIN SMALL LETTER A" output="ȃ"/>
+			<when state="LATIN SMALL LETTER E" output="ȇ"/>
+			<when state="LATIN SMALL LETTER I" output="ȋ"/>
+			<when state="LATIN SMALL LETTER O" output="ȏ"/>
+			<when state="LATIN SMALL LETTER R" output="ȓ"/>
+			<when state="LATIN SMALL LETTER U" output="ȗ"/>
+			<when state="NO-BREAK SPACE" output="̑"/>
+		</action>
+		<action id="&#x003E;">
+			<when state="none" output="&#x003E;"/>
+			<when state="ASTERISK" output="•"/>
+			<when state="DIAERESIS" output="ˆ"/>
+			<when state="INVERTED EXCLAMATION MARK" output="≥"/>
+			<when state="LATIN CAPITAL LETTER A" output="Â"/>
+			<when state="LATIN CAPITAL LETTER C" output="Ĉ"/>
+			<when state="LATIN CAPITAL LETTER E" output="Ê"/>
+			<when state="LATIN CAPITAL LETTER G" output="Ĝ"/>
+			<when state="LATIN CAPITAL LETTER H" output="Ĥ"/>
+			<when state="LATIN CAPITAL LETTER I" output="Î"/>
+			<when state="LATIN CAPITAL LETTER J" output="Ĵ"/>
+			<when state="LATIN CAPITAL LETTER O" output="Ô"/>
+			<when state="LATIN CAPITAL LETTER S" output="Ŝ"/>
+			<when state="LATIN CAPITAL LETTER U" output="Û"/>
+			<when state="LATIN CAPITAL LETTER W" output="Ŵ"/>
+			<when state="LATIN CAPITAL LETTER Y" output="Ŷ"/>
+			<when state="LATIN CAPITAL LETTER Z" output="Ẑ"/>
+			<when state="LATIN SMALL LETTER A" output="â"/>
+			<when state="LATIN SMALL LETTER C" output="ĉ"/>
+			<when state="LATIN SMALL LETTER E" output="ê"/>
+			<when state="LATIN SMALL LETTER G" output="ĝ"/>
+			<when state="LATIN SMALL LETTER H" output="ĥ"/>
+			<when state="LATIN SMALL LETTER I" output="î"/>
+			<when state="LATIN SMALL LETTER J" output="ĵ"/>
+			<when state="LATIN SMALL LETTER O" output="ô"/>
+			<when state="LATIN SMALL LETTER S" output="ŝ"/>
+			<when state="LATIN SMALL LETTER U" output="û"/>
+			<when state="LATIN SMALL LETTER W" output="ŵ"/>
+			<when state="LATIN SMALL LETTER Y" output="ŷ"/>
+			<when state="LATIN SMALL LETTER Z" output="ẑ"/>
+			<when state="NO-BREAK SPACE" output="̂"/>
+		</action>
+		<action id="?">
+			<when state="none" output="?"/>
+			<when state="EXCLAMATION MARK" output="‽"/>
+			<when state="LATIN CAPITAL LETTER A" output="Ả"/>
+			<when state="LATIN CAPITAL LETTER E" output="Ẻ"/>
+			<when state="LATIN CAPITAL LETTER I" output="Ỉ"/>
+			<when state="LATIN CAPITAL LETTER O" output="Ỏ"/>
+			<when state="LATIN CAPITAL LETTER U" output="Ủ"/>
+			<when state="LATIN CAPITAL LETTER Y" output="Ỷ"/>
+			<when state="LATIN SMALL LETTER A" output="ả"/>
+			<when state="LATIN SMALL LETTER E" output="ẻ"/>
+			<when state="LATIN SMALL LETTER I" output="ỉ"/>
+			<when state="LATIN SMALL LETTER O" output="ỏ"/>
+			<when state="LATIN SMALL LETTER U" output="ủ"/>
+			<when state="LATIN SMALL LETTER Y" output="ỷ"/>
+			<when state="NO-BREAK SPACE" output="̉"/>
+		</action>
+		<action id="@">
+			<when state="none" output="@"/>
+			<when state="LATIN CAPITAL LETTER A" output="Å"/>
+			<when state="LATIN CAPITAL LETTER U" output="Ů"/>
+			<when state="LATIN SMALL LETTER A" output="å"/>
+			<when state="LATIN SMALL LETTER U" output="ů"/>
+			<when state="LATIN SMALL LETTER W" output="ẘ"/>
+			<when state="LATIN SMALL LETTER Y" output="ẙ"/>
+			<when state="NO-BREAK SPACE" output="̊"/>
+			<when state="SPACE" output="˚"/>
+		</action>
+		<action id="A">
+			<when state="none" output="A"/>
+			<when state="BROKEN BAR" output="Α"/>
+			<when state="CURRENCY SIGN" output="⇐"/>
+			<when state="DIAERESIS" output="ᴬ"/>
+		</action>
+		<action id="B">
+			<when state="none" output="B"/>
+			<when state="BROKEN BAR" output="Β"/>
+			<when state="CURRENCY SIGN" output="♭"/>
+			<when state="DIAERESIS" output="ᴮ"/>
+			<when state="EXCLAMATION MARK" output="ʬ"/>
+		</action>
+		<action id="C">
+			<when state="none" output="C"/>
+			<when state="BROKEN BAR" output="Ψ"/>
+			<when state="CURRENCY SIGN" output="⇘"/>
+		</action>
+		<action id="D">
+			<when state="none" output="D"/>
+			<when state="BROKEN BAR" output="Δ"/>
+			<when state="CURRENCY SIGN" output="⇒"/>
+			<when state="DIAERESIS" output="ᴰ"/>
+			<when state="EXCLAMATION MARK" output="ʭ"/>
+		</action>
+		<action id="E">
+			<when state="none" output="E"/>
+			<when state="BROKEN BAR" output="Ε"/>
+			<when state="CURRENCY SIGN" output="⇗"/>
+			<when state="DIAERESIS" output="ᴱ"/>
+			<when state="LATIN SMALL LETTER O" output="ɶ"/>
+		</action>
+		<action id="F">
+			<when state="none" output="F"/>
+			<when state="BROKEN BAR" output="Φ"/>
+			<when state="CURRENCY SIGN" output="⇔"/>
+		</action>
+		<action id="G">
+			<when state="none" output="G"/>
+			<when state="BROKEN BAR" output="Γ"/>
+			<when state="CURRENCY SIGN" output="♂"/>
+			<when state="DIAERESIS" output="ᴳ"/>
+		</action>
+		<action id="H">
+			<when state="none" output="H"/>
+			<when state="BROKEN BAR" output="Η"/>
+			<when state="CURRENCY SIGN" output="☣"/>
+			<when state="DIAERESIS" output="ᴴ"/>
+			<when state="LATIN SMALL LETTER G" output="ᵹ"/>
+		</action>
+		<action id="I">
+			<when state="none" output="I"/>
+			<when state="BROKEN BAR" output="Ι"/>
+			<when state="CURRENCY SIGN" output="☝"/>
+			<when state="DIAERESIS" output="ᴵ"/>
+			<when state="LATIN SMALL LETTER F" output="ﬃ"/>
+		</action>
+		<action id="J">
+			<when state="none" output="J"/>
+			<when state="BROKEN BAR" output="Ξ"/>
+			<when state="CURRENCY SIGN" output="☜"/>
+			<when state="DIAERESIS" output="ᴶ"/>
+			<when state="LATIN CAPITAL LETTER D" output="Ǆ"/>
+			<when state="LATIN CAPITAL LETTER L" output="Ǉ"/>
+			<when state="LATIN CAPITAL LETTER N" output="Ǌ"/>
+			<when state="LATIN SMALL LETTER D" output="ʤ"/>
+		</action>
+		<action id="K">
+			<when state="none" output="K"/>
+			<when state="BROKEN BAR" output="Κ"/>
+			<when state="CURRENCY SIGN" output="☟"/>
+			<when state="DIAERESIS" output="ᴷ"/>
+		</action>
+		<action id="L">
+			<when state="none" output="L"/>
+			<when state="BROKEN BAR" output="Λ"/>
+			<when state="CURRENCY SIGN" output="☞"/>
+			<when state="DIAERESIS" output="ᴸ"/>
+			<when state="LATIN SMALL LETTER F" output="ﬄ"/>
+		</action>
+		<action id="M">
+			<when state="none" output="M"/>
+			<when state="BROKEN BAR" output="Μ"/>
+			<when state="CURRENCY SIGN" output="♯"/>
+			<when state="DIAERESIS" output="ᴹ"/>
+			<when state="SPACE" output=" "/>
+		</action>
+		<action id="N">
+			<when state="none" output="N"/>
+			<when state="BROKEN BAR" output="Ν"/>
+			<when state="CURRENCY SIGN" output="♮"/>
+			<when state="DIAERESIS" output="ᴺ"/>
+			<when state="SPACE" output=" "/>
+		</action>
+		<action id="O">
+			<when state="none" output="O"/>
+			<when state="BROKEN BAR" output="Ο"/>
+			<when state="CURRENCY SIGN" output="☂"/>
+			<when state="DIAERESIS" output="ᴼ"/>
+		</action>
+		<action id="P">
+			<when state="none" output="P"/>
+			<when state="BROKEN BAR" output="Π"/>
+			<when state="CURRENCY SIGN" output="☹"/>
+			<when state="DIAERESIS" output="ᴾ"/>
+		</action>
+		<action id="Q">
+			<when state="none" output="Q"/>
+			<when state="CURRENCY SIGN" output="⇖"/>
+		</action>
+		<action id="R">
+			<when state="none" output="R"/>
+			<when state="BROKEN BAR" output="Ρ"/>
+			<when state="CURRENCY SIGN" output="⇕"/>
+			<when state="DIAERESIS" output="ᴿ"/>
+			<when state="LATIN SMALL LETTER E" output="ɚ"/>
+			<when state="LATIN SMALL LETTER G" output="ʛ"/>
+			<when state="LATIN SMALL LETTER I" output="ɝ"/>
+			<when state="LATIN SMALL LETTER J" output="ʄ"/>
+			<when state="NO-BREAK SPACE" output="᷊"/>
+		</action>
+		<action id="S">
+			<when state="none" output="S"/>
+			<when state="ACUTE ACCENT" output="Ɂ"/>
+			<when state="BROKEN BAR" output="Σ"/>
+			<when state="CURRENCY SIGN" output="↺"/>
+			<when state="DIAERESIS" output="ᵊ"/>
+			<when state="LATIN SMALL LETTER S" output="ſ"/>
+			<when state="LATIN SMALL LETTER T" output="ʧ"/>
+		</action>
+		<action id="T">
+			<when state="none" output="T"/>
+			<when state="BROKEN BAR" output="Τ"/>
+			<when state="CURRENCY SIGN" output="☭"/>
+			<when state="DIAERESIS" output="ᵀ"/>
+			<when state="LATIN SMALL LETTER S" output="ﬅ"/>
+		</action>
+		<action id="U">
+			<when state="none" output="U"/>
+			<when state="BROKEN BAR" output="Θ"/>
+			<when state="CURRENCY SIGN" output="☥"/>
+			<when state="DIAERESIS" output="ᵁ"/>
+		</action>
+		<action id="V">
+			<when state="none" output="V"/>
+			<when state="BROKEN BAR" output="Ω"/>
+			<when state="CURRENCY SIGN" output="♨"/>
+		</action>
+		<action id="W">
+			<when state="none" output="W"/>
+			<when state="CURRENCY SIGN" output="⇑"/>
+			<when state="DIAERESIS" output="ᵂ"/>
+		</action>
+		<action id="X">
+			<when state="none" output="X"/>
+			<when state="BROKEN BAR" output="Χ"/>
+			<when state="CURRENCY SIGN" output="⇓"/>
+			<when state="DIAERESIS" output="˟"/>
+			<when state="NO-BREAK SPACE" output="̽"/>
+		</action>
+		<action id="Y">
+			<when state="none" output="Y"/>
+			<when state="BROKEN BAR" output="Υ"/>
+			<when state="CURRENCY SIGN" output="☮"/>
+			<when state="DIAERESIS" output="ˠ"/>
+		</action>
+		<action id="Z">
+			<when state="none" output="Z"/>
+			<when state="BROKEN BAR" output="Ζ"/>
+			<when state="CURRENCY SIGN" output="⇙"/>
+			<when state="LATIN CAPITAL LETTER D" output="Ǳ"/>
+			<when state="LATIN SMALL LETTER D" output="ʣ"/>
+			<when state="LATIN SMALL LETTER L" output="ɮ"/>
+		</action>
+		<action id="[">
+			<when state="none" output="["/>
+			<when state="DIAERESIS" output="ˋ"/>
+			<when state="LATIN CAPITAL LETTER A" output="À"/>
+			<when state="LATIN CAPITAL LETTER E" output="È"/>
+			<when state="LATIN CAPITAL LETTER I" output="Ì"/>
+			<when state="LATIN CAPITAL LETTER N" output="Ǹ"/>
+			<when state="LATIN CAPITAL LETTER O" output="Ò"/>
+			<when state="LATIN CAPITAL LETTER U" output="Ù"/>
+			<when state="LATIN CAPITAL LETTER W" output="Ẁ"/>
+			<when state="LATIN CAPITAL LETTER Y" output="Ỳ"/>
+			<when state="LATIN SMALL LETTER A" output="à"/>
+			<when state="LATIN SMALL LETTER E" output="è"/>
+			<when state="LATIN SMALL LETTER I" output="ì"/>
+			<when state="LATIN SMALL LETTER N" output="ǹ"/>
+			<when state="LATIN SMALL LETTER O" output="ò"/>
+			<when state="LATIN SMALL LETTER U" output="ù"/>
+			<when state="LATIN SMALL LETTER W" output="ẁ"/>
+			<when state="LATIN SMALL LETTER Y" output="ỳ"/>
+			<when state="NO-BREAK SPACE" output="̀"/>
+			<when state="SPACE" output="`"/>
+		</action>
+		<action id="\">
+			<when state="none" output="\"/>
+			<when state="DIGIT EIGHT" output="⁸"/>
+			<when state="DIGIT FIVE" output="⁵"/>
+			<when state="DIGIT FOUR" output="⁴"/>
+			<when state="DIGIT NINE" output="⁹"/>
+			<when state="DIGIT ONE" output="¹"/>
+			<when state="DIGIT SEVEN" output="⁷"/>
+			<when state="DIGIT SIX" output="⁶"/>
+			<when state="DIGIT THREE" output="³"/>
+			<when state="DIGIT TWO" output="²"/>
+			<when state="DIGIT ZERO" output="⁰"/>
+			<when state="DIVISION SIGN" output="⁻"/>
+			<when state="INVERTED EXCLAMATION MARK" output="⁼"/>
+			<when state="LATIN SMALL LETTER A" output="ª"/>
+			<when state="LATIN SMALL LETTER I" output="ⁱ"/>
+			<when state="LATIN SMALL LETTER N" output="ⁿ"/>
+			<when state="LATIN SMALL LETTER O" output="º"/>
+			<when state="LEFT PARENTHESIS" output="⁽"/>
+			<when state="PLUS-MINUS SIGN" output="⁺"/>
+			<when state="RIGHT PARENTHESIS" output="⁾"/>
+		</action>
+		<action id="]">
+			<when state="none" output="]"/>
+			<when state="DIAERESIS" output="ˊ"/>
+			<when state="LATIN CAPITAL LETTER A" output="Á"/>
+			<when state="LATIN CAPITAL LETTER C" output="Ć"/>
+			<when state="LATIN CAPITAL LETTER E" output="É"/>
+			<when state="LATIN CAPITAL LETTER G" output="Ǵ"/>
+			<when state="LATIN CAPITAL LETTER I" output="Í"/>
+			<when state="LATIN CAPITAL LETTER K" output="Ḱ"/>
+			<when state="LATIN CAPITAL LETTER L" output="Ĺ"/>
+			<when state="LATIN CAPITAL LETTER M" output="Ḿ"/>
+			<when state="LATIN CAPITAL LETTER N" output="Ń"/>
+			<when state="LATIN CAPITAL LETTER O" output="Ó"/>
+			<when state="LATIN CAPITAL LETTER P" output="Ṕ"/>
+			<when state="LATIN CAPITAL LETTER R" output="Ŕ"/>
+			<when state="LATIN CAPITAL LETTER S" output="Ś"/>
+			<when state="LATIN CAPITAL LETTER U" output="Ú"/>
+			<when state="LATIN CAPITAL LETTER W" output="Ẃ"/>
+			<when state="LATIN CAPITAL LETTER Y" output="Ý"/>
+			<when state="LATIN CAPITAL LETTER Z" output="Ź"/>
+			<when state="LATIN SMALL LETTER A" output="á"/>
+			<when state="LATIN SMALL LETTER C" output="ć"/>
+			<when state="LATIN SMALL LETTER E" output="é"/>
+			<when state="LATIN SMALL LETTER G" output="ǵ"/>
+			<when state="LATIN SMALL LETTER I" output="í"/>
+			<when state="LATIN SMALL LETTER K" output="ḱ"/>
+			<when state="LATIN SMALL LETTER L" output="ĺ"/>
+			<when state="LATIN SMALL LETTER M" output="ḿ"/>
+			<when state="LATIN SMALL LETTER N" output="ń"/>
+			<when state="LATIN SMALL LETTER O" output="ó"/>
+			<when state="LATIN SMALL LETTER P" output="ṕ"/>
+			<when state="LATIN SMALL LETTER R" output="ŕ"/>
+			<when state="LATIN SMALL LETTER S" output="ś"/>
+			<when state="LATIN SMALL LETTER U" output="ú"/>
+			<when state="LATIN SMALL LETTER W" output="ẃ"/>
+			<when state="LATIN SMALL LETTER Y" output="ý"/>
+			<when state="LATIN SMALL LETTER Z" output="ź"/>
+			<when state="NO-BREAK SPACE" output="́"/>
+			<when state="SPACE" output="´"/>
+		</action>
+		<action id="^">
+			<when state="none" output="^"/>
+			<when state="CURRENCY SIGN" output="○"/>
+			<when state="NO-BREAK SPACE" output="̚"/>
+		</action>
+		<action id="_">
+			<when state="none" output="_"/>
+			<when state="CIRCUMFLEX ACCENT" output="‸"/>
+			<when state="DIAERESIS" output="ˉ"/>
+			<when state="INVERTED EXCLAMATION MARK" output="‗"/>
+			<when state="LATIN CAPITAL LETTER A" output="Ā"/>
+			<when state="LATIN CAPITAL LETTER E" output="Ē"/>
+			<when state="LATIN CAPITAL LETTER G" output="Ḡ"/>
+			<when state="LATIN CAPITAL LETTER I" output="Ī"/>
+			<when state="LATIN CAPITAL LETTER O" output="Ō"/>
+			<when state="LATIN CAPITAL LETTER U" output="Ū"/>
+			<when state="LATIN CAPITAL LETTER Y" output="Ȳ"/>
+			<when state="LATIN SMALL LETTER A" output="ā"/>
+			<when state="LATIN SMALL LETTER E" output="ē"/>
+			<when state="LATIN SMALL LETTER G" output="ḡ"/>
+			<when state="LATIN SMALL LETTER I" output="ī"/>
+			<when state="LATIN SMALL LETTER O" output="ō"/>
+			<when state="LATIN SMALL LETTER U" output="ū"/>
+			<when state="LATIN SMALL LETTER Y" output="ȳ"/>
+			<when state="NO-BREAK SPACE" output="̄"/>
+			<when state="PLUS-MINUS SIGN" output="∓"/>
+			<when state="SPACE" output="¯"/>
+		</action>
+		<action id="a">
+			<when state="none" output="a"/>
+			<when state="BROKEN BAR" output="α"/>
+			<when state="CURRENCY SIGN" output="←"/>
+			<when state="DIAERESIS" output="ᵃ"/>
+			<when state="EXCLAMATION MARK" output="ǂ"/>
+			<when state="NO-BREAK SPACE" output="ͣ"/>
+		</action>
+		<action id="b">
+			<when state="none" output="b"/>
+			<when state="BROKEN BAR" output="β"/>
+			<when state="CURRENCY SIGN" output="♪"/>
+			<when state="DIAERESIS" output="ᵇ"/>
+			<when state="EXCLAMATION MARK" output="ʘ"/>
+			<when state="LATIN SMALL LETTER D" output="ȸ"/>
+			<when state="LATIN SMALL LETTER L" output="℔"/>
+			<when state="MACRON" output="¦"/>
+		</action>
+		<action id="c">
+			<when state="none" output="c"/>
+			<when state="BROKEN BAR" output="ψ"/>
+			<when state="CURRENCY SIGN" output="↘"/>
+			<when state="DIAERESIS" output="ᶜ"/>
+			<when state="EXCLAMATION MARK" output="ʗ"/>
+			<when state="LATIN SMALL LETTER A" output="℀"/>
+			<when state="LATIN SMALL LETTER P" output="¶"/>
+			<when state="LATIN SMALL LETTER S" output="§"/>
+			<when state="LATIN SMALL LETTER T" output="ʨ"/>
+			<when state="NO-BREAK SPACE" output="ͨ"/>
+		</action>
+		<action id="d">
+			<when state="none" output="d"/>
+			<when state="BROKEN BAR" output="δ"/>
+			<when state="CURRENCY SIGN" output="→"/>
+			<when state="DIAERESIS" output="ᵈ"/>
+			<when state="DIVISION SIGN" output="∕"/>
+			<when state="EXCLAMATION MARK" output="ǀ"/>
+			<when state="NO-BREAK SPACE" output="ͩ"/>
+		</action>
+		<action id="e">
+			<when state="none" output="e"/>
+			<when state="ACUTE ACCENT" output="ʡ"/>
+			<when state="BROKEN BAR" output="ε"/>
+			<when state="CURRENCY SIGN" output="↗"/>
+			<when state="DIAERESIS" output="ᵉ"/>
+			<when state="LATIN CAPITAL LETTER A" output="Æ"/>
+			<when state="LATIN CAPITAL LETTER O" output="Œ"/>
+			<when state="LATIN SMALL LETTER A" output="æ"/>
+			<when state="LATIN SMALL LETTER O" output="œ"/>
+			<when state="LATIN SMALL LETTER T" output="℡"/>
+			<when state="LATIN SMALL LETTER U" output="ᵫ"/>
+			<when state="NO-BREAK SPACE" output="ͤ"/>
+		</action>
+		<action id="f">
+			<when state="none" output="f"/>
+			<when state="ACUTE ACCENT" output="ʢ"/>
+			<when state="BROKEN BAR" output="φ"/>
+			<when state="CURRENCY SIGN" output="↔"/>
+			<when state="DIAERESIS" output="ᶠ"/>
+			<when state="DIVISION SIGN" output="⁄"/>
+			<when state="LATIN SMALL LETTER F" output="ﬀ"/>
+			<when state="MACRON" output="‒"/>
+			<when state="SPACE" output=" "/>
+		</action>
+		<action id="g">
+			<when state="none" output="g"/>
+			<when state="ACUTE ACCENT" output="ʔ"/>
+			<when state="BROKEN BAR" output="γ"/>
+			<when state="CURRENCY SIGN" output="♀"/>
+			<when state="DIAERESIS" output="ᵍ"/>
+			<when state="LATIN CAPITAL LETTER N" output="Ŋ"/>
+			<when state="LATIN SMALL LETTER G" output="ɡ"/>
+			<when state="LATIN SMALL LETTER N" output="ŋ"/>
+		</action>
+		<action id="h">
+			<when state="none" output="h"/>
+			<when state="BROKEN BAR" output="η"/>
+			<when state="CURRENCY SIGN" output="☢"/>
+			<when state="DIAERESIS" output="ʰ"/>
+			<when state="LATIN CAPITAL LETTER D" output="Ð"/>
+			<when state="LATIN CAPITAL LETTER E" output="Ɛ"/>
+			<when state="LATIN CAPITAL LETTER Q" output="Ƣ"/>
+			<when state="LATIN CAPITAL LETTER S" output="Ʃ"/>
+			<when state="LATIN CAPITAL LETTER T" output="Þ"/>
+			<when state="LATIN CAPITAL LETTER U" output="Ʊ"/>
+			<when state="LATIN CAPITAL LETTER Z" output="Ʒ"/>
+			<when state="LATIN SMALL LETTER A" output="ɤ"/>
+			<when state="LATIN SMALL LETTER D" output="ð"/>
+			<when state="LATIN SMALL LETTER E" output="ɛ"/>
+			<when state="LATIN SMALL LETTER G" output="ȝ"/>
+			<when state="LATIN SMALL LETTER I" output="ɘ"/>
+			<when state="LATIN SMALL LETTER K" output="ĸ"/>
+			<when state="LATIN SMALL LETTER O" output="ɒ"/>
+			<when state="LATIN SMALL LETTER P" output="ɸ"/>
+			<when state="LATIN SMALL LETTER Q" output="ƣ"/>
+			<when state="LATIN SMALL LETTER R" output="Ʀ"/>
+			<when state="LATIN SMALL LETTER S" output="ʃ"/>
+			<when state="LATIN SMALL LETTER T" output="þ"/>
+			<when state="LATIN SMALL LETTER U" output="ʊ"/>
+			<when state="LATIN SMALL LETTER W" output="ƿ"/>
+			<when state="LATIN SMALL LETTER Y" output="ᴥ"/>
+			<when state="LATIN SMALL LETTER Z" output="ʒ"/>
+			<when state="MACRON" output="―"/>
+			<when state="NO-BREAK SPACE" output="ͪ"/>
+			<when state="SPACE" output=" "/>
+		</action>
+		<action id="i">
+			<when state="none" output="i"/>
+			<when state="BROKEN BAR" output="ι"/>
+			<when state="CURRENCY SIGN" output="☃"/>
+			<when state="LATIN SMALL LETTER F" output="ﬁ"/>
+			<when state="NO-BREAK SPACE" output="ͥ"/>
+		</action>
+		<action id="j">
+			<when state="none" output="j"/>
+			<when state="BROKEN BAR" output="ξ"/>
+			<when state="CURRENCY SIGN" output="☚"/>
+			<when state="DIAERESIS" output="ʲ"/>
+			<when state="LATIN CAPITAL LETTER D" output="ǅ"/>
+			<when state="LATIN CAPITAL LETTER I" output="Ĳ"/>
+			<when state="LATIN CAPITAL LETTER L" output="ǈ"/>
+			<when state="LATIN CAPITAL LETTER N" output="ǋ"/>
+			<when state="LATIN SMALL LETTER D" output="ǆ"/>
+			<when state="LATIN SMALL LETTER I" output="ĳ"/>
+			<when state="LATIN SMALL LETTER L" output="ǉ"/>
+			<when state="LATIN SMALL LETTER N" output="ǌ"/>
+		</action>
+		<action id="k">
+			<when state="none" output="k"/>
+			<when state="BROKEN BAR" output="κ"/>
+			<when state="CURRENCY SIGN" output="⌂"/>
+			<when state="DIAERESIS" output="ᵏ"/>
+		</action>
+		<action id="l">
+			<when state="none" output="l"/>
+			<when state="ACUTE ACCENT" output="ᴤ"/>
+			<when state="BROKEN BAR" output="λ"/>
+			<when state="CURRENCY SIGN" output="☛"/>
+			<when state="DIAERESIS" output="ˡ"/>
+			<when state="EXCLAMATION MARK" output="ǁ"/>
+			<when state="LATIN SMALL LETTER C" output="℄"/>
+			<when state="LATIN SMALL LETTER F" output="ﬂ"/>
+		</action>
+		<action id="m">
+			<when state="none" output="m"/>
+			<when state="BROKEN BAR" output="μ"/>
+			<when state="CURRENCY SIGN" output="♬"/>
+			<when state="DIAERESIS" output="ᵐ"/>
+			<when state="LATIN SMALL LETTER C" output="©"/>
+			<when state="LATIN SMALL LETTER O" output="Ω"/>
+			<when state="LATIN SMALL LETTER P" output="℗"/>
+			<when state="LATIN SMALL LETTER R" output="®"/>
+			<when state="LATIN SMALL LETTER S" output="℠"/>
+			<when state="LATIN SMALL LETTER T" output="™"/>
+			<when state="NO-BREAK SPACE" output="ͫ"/>
+			<when state="SPACE" output=" "/>
+		</action>
+		<action id="n">
+			<when state="none" output="n"/>
+			<when state="ACUTE ACCENT" output="ŉ"/>
+			<when state="BROKEN BAR" output="ν"/>
+			<when state="CURRENCY SIGN" output="♫"/>
+			<when state="DIAERESIS" output="ʱ"/>
+			<when state="LATIN SMALL LETTER F" output="ʩ"/>
+			<when state="LATIN SMALL LETTER H" output="ɧ"/>
+			<when state="SPACE" output=" "/>
+		</action>
+		<action id="o">
+			<when state="none" output="o"/>
+			<when state="BROKEN BAR" output="ο"/>
+			<when state="CURRENCY SIGN" output="☁"/>
+			<when state="DIAERESIS" output="ᵒ"/>
+			<when state="LATIN CAPITAL LETTER I" output="Ɩ"/>
+			<when state="LATIN SMALL LETTER C" output="℅"/>
+			<when state="LATIN SMALL LETTER I" output="ɩ"/>
+			<when state="LATIN SMALL LETTER M" output="℧"/>
+			<when state="LATIN SMALL LETTER N" output="№"/>
+			<when state="NO-BREAK SPACE" output="ͦ"/>
+		</action>
+		<action id="p">
+			<when state="none" output="p"/>
+			<when state="ACUTE ACCENT" output="ʕ"/>
+			<when state="BROKEN BAR" output="π"/>
+			<when state="CURRENCY SIGN" output="☠"/>
+			<when state="DIAERESIS" output="ᵖ"/>
+			<when state="LATIN SMALL LETTER Q" output="ȹ"/>
+			<when state="SPACE" output=" "/>
+		</action>
+		<action id="q">
+			<when state="none" output="q"/>
+			<when state="CURRENCY SIGN" output="↖"/>
+		</action>
+		<action id="r">
+			<when state="none" output="r"/>
+			<when state="ASTERISK" output="※"/>
+			<when state="BROKEN BAR" output="ρ"/>
+			<when state="CURRENCY SIGN" output="↕"/>
+			<when state="DIAERESIS" output="ʳ"/>
+			<when state="EXCLAMATION MARK" output="ǃ"/>
+			<when state="LATIN CAPITAL LETTER E" output="Ə"/>
+			<when state="LATIN CAPITAL LETTER G" output="Ɣ"/>
+			<when state="LATIN CAPITAL LETTER O" output="Ɔ"/>
+			<when state="LATIN SMALL LETTER A" output="ɑ"/>
+			<when state="LATIN SMALL LETTER E" output="ə"/>
+			<when state="LATIN SMALL LETTER G" output="ɣ"/>
+			<when state="LATIN SMALL LETTER H" output="ʁ"/>
+			<when state="LATIN SMALL LETTER I" output="ɜ"/>
+			<when state="LATIN SMALL LETTER J" output="ɟ"/>
+			<when state="LATIN SMALL LETTER L" output="ɺ"/>
+			<when state="LATIN SMALL LETTER O" output="ɔ"/>
+			<when state="LATIN SMALL LETTER R" output="ɾ"/>
+			<when state="LATIN SMALL LETTER U" output="ɞ"/>
+			<when state="LATIN SMALL LETTER W" output="ɰ"/>
+			<when state="MULTIPLICATION SIGN" output="�"/>
+			<when state="NO-BREAK SPACE" output="ͬ"/>
+		</action>
+		<action id="s">
+			<when state="none" output="s"/>
+			<when state="ACUTE ACCENT" output="ɂ"/>
+			<when state="BROKEN BAR" output="σ"/>
+			<when state="CURRENCY SIGN" output="↻"/>
+			<when state="DIAERESIS" output="ˢ"/>
+			<when state="EXCLAMATION MARK" output="¡"/>
+			<when state="LATIN CAPITAL LETTER S" output="ẞ"/>
+			<when state="LATIN SMALL LETTER A" output="℁"/>
+			<when state="LATIN SMALL LETTER E" output="℮"/>
+			<when state="LATIN SMALL LETTER L" output="ʪ"/>
+			<when state="LATIN SMALL LETTER S" output="ß"/>
+			<when state="LATIN SMALL LETTER T" output="ʦ"/>
+		</action>
+		<action id="t">
+			<when state="none" output="t"/>
+			<when state="BROKEN BAR" output="τ"/>
+			<when state="CURRENCY SIGN" output="☪"/>
+			<when state="DIAERESIS" output="ᵗ"/>
+			<when state="LATIN SMALL LETTER S" output="ﬆ"/>
+			<when state="NO-BREAK SPACE" output="ͭ"/>
+			<when state="SPACE" output=" "/>
+		</action>
+		<action id="u">
+			<when state="none" output="u"/>
+			<when state="BROKEN BAR" output="θ"/>
+			<when state="CURRENCY SIGN" output="☤"/>
+			<when state="DIAERESIS" output="ᵘ"/>
+			<when state="LATIN CAPITAL LETTER O" output="Ȣ"/>
+			<when state="LATIN SMALL LETTER C" output="℆"/>
+			<when state="LATIN SMALL LETTER M" output="µ"/>
+			<when state="LATIN SMALL LETTER O" output="ȣ"/>
+			<when state="NO-BREAK SPACE" output="ͧ"/>
+		</action>
+		<action id="v">
+			<when state="none" output="v"/>
+			<when state="BROKEN BAR" output="ω"/>
+			<when state="CURRENCY SIGN" output="♩"/>
+			<when state="DIAERESIS" output="ᵛ"/>
+			<when state="LATIN CAPITAL LETTER H" output="Ƕ"/>
+			<when state="LATIN SMALL LETTER H" output="ƕ"/>
+			<when state="NO-BREAK SPACE" output="ͮ"/>
+		</action>
+		<action id="w">
+			<when state="none" output="w"/>
+			<when state="BROKEN BAR" output="ς"/>
+			<when state="CURRENCY SIGN" output="↑"/>
+			<when state="DIAERESIS" output="ʷ"/>
+		</action>
+		<action id="x">
+			<when state="none" output="x"/>
+			<when state="ASTERISK" output="×"/>
+			<when state="BROKEN BAR" output="χ"/>
+			<when state="CURRENCY SIGN" output="↓"/>
+			<when state="DIAERESIS" output="ˣ"/>
+			<when state="LATIN SMALL LETTER R" output="℞"/>
+			<when state="NO-BREAK SPACE" output="ͯ"/>
+		</action>
+		<action id="y">
+			<when state="none" output="y"/>
+			<when state="BROKEN BAR" output="υ"/>
+			<when state="CURRENCY SIGN" output="☯"/>
+			<when state="DIAERESIS" output="ʸ"/>
+		</action>
+		<action id="z">
+			<when state="none" output="z"/>
+			<when state="BROKEN BAR" output="ζ"/>
+			<when state="CURRENCY SIGN" output="↙"/>
+			<when state="DIAERESIS" output="ᶻ"/>
+			<when state="LATIN CAPITAL LETTER D" output="ǲ"/>
+			<when state="LATIN SMALL LETTER D" output="ǳ"/>
+			<when state="LATIN SMALL LETTER L" output="ʫ"/>
+			<when state="LATIN SMALL LETTER O" output="℥"/>
+			<when state="LATIN SMALL LETTER T" output="ƾ"/>
+			<when state="SPACE" output="​"/>
+		</action>
+		<action id="{">
+			<when state="none" output="{"/>
+			<when state="LATIN CAPITAL LETTER A" output="Ȁ"/>
+			<when state="LATIN CAPITAL LETTER E" output="Ȅ"/>
+			<when state="LATIN CAPITAL LETTER I" output="Ȉ"/>
+			<when state="LATIN CAPITAL LETTER O" output="Ȍ"/>
+			<when state="LATIN CAPITAL LETTER R" output="Ȑ"/>
+			<when state="LATIN CAPITAL LETTER U" output="Ȕ"/>
+			<when state="LATIN SMALL LETTER A" output="ȁ"/>
+			<when state="LATIN SMALL LETTER E" output="ȅ"/>
+			<when state="LATIN SMALL LETTER I" output="ȉ"/>
+			<when state="LATIN SMALL LETTER O" output="ȍ"/>
+			<when state="LATIN SMALL LETTER R" output="ȑ"/>
+			<when state="LATIN SMALL LETTER U" output="ȕ"/>
+			<when state="NO-BREAK SPACE" output="̏"/>
+		</action>
+		<action id="|">
+			<when state="none" output="|"/>
+			<when state="ACUTE ACCENT" output="ʻ"/>
+			<when state="DIGIT EIGHT" output="∞"/>
+			<when state="EXCLAMATION MARK" output="¡"/>
+			<when state="LATIN CAPITAL LETTER C" output="Ɔ"/>
+			<when state="LATIN CAPITAL LETTER E" output="Ǝ"/>
+			<when state="LATIN CAPITAL LETTER F" output="ⅎ"/>
+			<when state="LATIN CAPITAL LETTER M" output="Ɯ"/>
+			<when state="LATIN CAPITAL LETTER V" output="Ʌ"/>
+			<when state="LATIN SMALL LETTER A" output="ɐ"/>
+			<when state="LATIN SMALL LETTER C" output="ɔ"/>
+			<when state="LATIN SMALL LETTER E" output="ǝ"/>
+			<when state="LATIN SMALL LETTER G" output="ᵷ"/>
+			<when state="LATIN SMALL LETTER H" output="ɥ"/>
+			<when state="LATIN SMALL LETTER I" output="ᴉ"/>
+			<when state="LATIN SMALL LETTER K" output="ʞ"/>
+			<when state="LATIN SMALL LETTER M" output="ɯ"/>
+			<when state="LATIN SMALL LETTER R" output="ɹ"/>
+			<when state="LATIN SMALL LETTER T" output="ʇ"/>
+			<when state="LATIN SMALL LETTER V" output="ʌ"/>
+			<when state="LATIN SMALL LETTER W" output="ʍ"/>
+			<when state="LATIN SMALL LETTER Y" output="ʎ"/>
+			<when state="MULTIPLICATION SIGN" output="¿"/>
+		</action>
+		<action id="}">
+			<when state="none" output="}"/>
+			<when state="LATIN CAPITAL LETTER O" output="Ő"/>
+			<when state="LATIN CAPITAL LETTER U" output="Ű"/>
+			<when state="LATIN SMALL LETTER O" output="ő"/>
+			<when state="LATIN SMALL LETTER U" output="ű"/>
+			<when state="NO-BREAK SPACE" output="̋"/>
+		</action>
+		<action id="~">
+			<when state="none" output="~"/>
+			<when state="INVERTED EXCLAMATION MARK" output="≈"/>
+			<when state="LATIN CAPITAL LETTER A" output="Ã"/>
+			<when state="LATIN CAPITAL LETTER E" output="Ẽ"/>
+			<when state="LATIN CAPITAL LETTER I" output="Ĩ"/>
+			<when state="LATIN CAPITAL LETTER N" output="Ñ"/>
+			<when state="LATIN CAPITAL LETTER O" output="Õ"/>
+			<when state="LATIN CAPITAL LETTER U" output="Ũ"/>
+			<when state="LATIN CAPITAL LETTER V" output="Ṽ"/>
+			<when state="LATIN CAPITAL LETTER Y" output="Ỹ"/>
+			<when state="LATIN SMALL LETTER A" output="ã"/>
+			<when state="LATIN SMALL LETTER E" output="ẽ"/>
+			<when state="LATIN SMALL LETTER I" output="ĩ"/>
+			<when state="LATIN SMALL LETTER N" output="ñ"/>
+			<when state="LATIN SMALL LETTER O" output="õ"/>
+			<when state="LATIN SMALL LETTER U" output="ũ"/>
+			<when state="LATIN SMALL LETTER V" output="ṽ"/>
+			<when state="LATIN SMALL LETTER Y" output="ỹ"/>
+			<when state="NO-BREAK SPACE" output="̃"/>
+			<when state="SPACE" output="˜"/>
+		</action>
+		<action id=" ">
+			<when state="none" output=" "/>
+			<when state="ACUTE ACCENT" output="´"/>
+			<when state="BROKEN BAR" output="¦"/>
+			<when state="CURRENCY SIGN" output="¤"/>
+			<when state="DIAERESIS" output="¨"/>
+			<when state="DIVISION SIGN" output="÷"/>
+			<when state="INVERTED EXCLAMATION MARK" output="¡"/>
+			<when state="MACRON" output="¯"/>
+			<when state="MULTIPLICATION SIGN" output="×"/>
+			<when state="PLUS-MINUS SIGN" output="±"/>
+		</action>
+		<action id="£">
+			<when state="none" output="£"/>
+			<when state="ACUTE ACCENT" output="‷"/>
+			<when state="CURRENCY SIGN" output="♢"/>
+			<when state="DIAERESIS" output="˧"/>
+		</action>
+		<action id="«">
+			<when state="none" output="«"/>
+			<when state="LATIN CAPITAL LETTER H" output="Ⱨ"/>
+			<when state="LATIN CAPITAL LETTER K" output="Ⱪ"/>
+			<when state="LATIN CAPITAL LETTER Z" output="Ⱬ"/>
+			<when state="LATIN SMALL LETTER H" output="ⱨ"/>
+			<when state="LATIN SMALL LETTER K" output="ⱪ"/>
+			<when state="LATIN SMALL LETTER Z" output="ⱬ"/>
+			<when state="NO-BREAK SPACE" output="̬"/>
+		</action>
+		<action id="°">
+			<when state="none" output="°"/>
+			<when state="DIAERESIS" output="ˁ"/>
+			<when state="LATIN CAPITAL LETTER A" output="Ḁ"/>
+			<when state="LATIN SMALL LETTER A" output="ḁ"/>
+			<when state="NO-BREAK SPACE" output="̥"/>
+		</action>
+		<action id="·">
+			<when state="none" output="·"/>
+			<when state="LATIN CAPITAL LETTER L" output="Ɫ"/>
+			<when state="LATIN SMALL LETTER B" output="ᵬ"/>
+			<when state="LATIN SMALL LETTER D" output="ᵭ"/>
+			<when state="LATIN SMALL LETTER F" output="ᵮ"/>
+			<when state="LATIN SMALL LETTER L" output="ɫ"/>
+			<when state="LATIN SMALL LETTER M" output="ᵯ"/>
+			<when state="LATIN SMALL LETTER N" output="ᵰ"/>
+			<when state="LATIN SMALL LETTER P" output="ᵱ"/>
+			<when state="LATIN SMALL LETTER R" output="ᵲ"/>
+			<when state="LATIN SMALL LETTER S" output="ᵴ"/>
+			<when state="LATIN SMALL LETTER T" output="ᵵ"/>
+			<when state="LATIN SMALL LETTER Z" output="ᵶ"/>
+			<when state="NO-BREAK SPACE" output="̴"/>
+		</action>
+		<action id="»">
+			<when state="none" output="»"/>
+			<when state="LATIN CAPITAL LETTER D" output="Ḓ"/>
+			<when state="LATIN CAPITAL LETTER E" output="Ḙ"/>
+			<when state="LATIN CAPITAL LETTER L" output="Ḽ"/>
+			<when state="LATIN CAPITAL LETTER N" output="Ṋ"/>
+			<when state="LATIN CAPITAL LETTER T" output="Ṱ"/>
+			<when state="LATIN CAPITAL LETTER U" output="Ṷ"/>
+			<when state="LATIN SMALL LETTER D" output="ḓ"/>
+			<when state="LATIN SMALL LETTER E" output="ḙ"/>
+			<when state="LATIN SMALL LETTER L" output="ḽ"/>
+			<when state="LATIN SMALL LETTER N" output="ṋ"/>
+			<when state="LATIN SMALL LETTER T" output="ṱ"/>
+			<when state="LATIN SMALL LETTER U" output="ṷ"/>
+			<when state="NO-BREAK SPACE" output="̭"/>
+		</action>
+		<action id="–">
+			<when state="none" output="–"/>
+			<when state="LATIN SMALL LETTER L" output="ɬ"/>
+			<when state="NO-BREAK SPACE" output="̶"/>
+		</action>
+		<action id="—">
+			<when state="none" output="—"/>
+			<when state="DIAERESIS" output="ˍ"/>
+			<when state="LATIN CAPITAL LETTER B" output="Ḇ"/>
+			<when state="LATIN CAPITAL LETTER D" output="Ḏ"/>
+			<when state="LATIN CAPITAL LETTER K" output="Ḵ"/>
+			<when state="LATIN CAPITAL LETTER L" output="Ḻ"/>
+			<when state="LATIN CAPITAL LETTER N" output="Ṉ"/>
+			<when state="LATIN CAPITAL LETTER R" output="Ṟ"/>
+			<when state="LATIN CAPITAL LETTER T" output="Ṯ"/>
+			<when state="LATIN CAPITAL LETTER Z" output="Ẕ"/>
+			<when state="LATIN SMALL LETTER B" output="ḇ"/>
+			<when state="LATIN SMALL LETTER D" output="ḏ"/>
+			<when state="LATIN SMALL LETTER H" output="ẖ"/>
+			<when state="LATIN SMALL LETTER K" output="ḵ"/>
+			<when state="LATIN SMALL LETTER L" output="ḻ"/>
+			<when state="LATIN SMALL LETTER N" output="ṉ"/>
+			<when state="LATIN SMALL LETTER R" output="ṟ"/>
+			<when state="LATIN SMALL LETTER T" output="ṯ"/>
+			<when state="LATIN SMALL LETTER Z" output="ẕ"/>
+			<when state="NO-BREAK SPACE" output="̱"/>
+		</action>
+		<action id="‘">
+			<when state="none" output="‘"/>
+			<when state="DIAERESIS" output="ˎ"/>
+			<when state="LATIN CAPITAL LETTER T" output="Ʈ"/>
+			<when state="LATIN SMALL LETTER A" output="ᶏ"/>
+			<when state="LATIN SMALL LETTER D" output="ᶑ"/>
+			<when state="LATIN SMALL LETTER E" output="ᶒ"/>
+			<when state="LATIN SMALL LETTER I" output="ᶖ"/>
+			<when state="LATIN SMALL LETTER L" output="ɭ"/>
+			<when state="LATIN SMALL LETTER N" output="ɳ"/>
+			<when state="LATIN SMALL LETTER T" output="ʈ"/>
+			<when state="LATIN SMALL LETTER U" output="ᶙ"/>
+			<when state="LATIN SMALL LETTER Z" output="ʐ"/>
+			<when state="NO-BREAK SPACE" output="̢"/>
+		</action>
+		<action id="’">
+			<when state="none" output="’"/>
+			<when state="DIAERESIS" output="ˏ"/>
+			<when state="LATIN SMALL LETTER B" output="ᶀ"/>
+			<when state="LATIN SMALL LETTER D" output="ᶁ"/>
+			<when state="LATIN SMALL LETTER F" output="ᶂ"/>
+			<when state="LATIN SMALL LETTER G" output="ᶃ"/>
+			<when state="LATIN SMALL LETTER K" output="ᶄ"/>
+			<when state="LATIN SMALL LETTER L" output="ᶅ"/>
+			<when state="LATIN SMALL LETTER M" output="ᶆ"/>
+			<when state="LATIN SMALL LETTER N" output="ᶇ"/>
+			<when state="LATIN SMALL LETTER P" output="ᶈ"/>
+			<when state="LATIN SMALL LETTER R" output="ᶉ"/>
+			<when state="LATIN SMALL LETTER S" output="ᶊ"/>
+			<when state="LATIN SMALL LETTER T" output="ƫ"/>
+			<when state="LATIN SMALL LETTER V" output="ᶌ"/>
+			<when state="LATIN SMALL LETTER X" output="ᶍ"/>
+			<when state="LATIN SMALL LETTER Z" output="ᶎ"/>
+			<when state="NO-BREAK SPACE" output="̡"/>
+		</action>
+		<action id="‚">
+			<when state="none" output="‚"/>
+			<when state="DIAERESIS" output="˞"/>
+			<when state="LATIN CAPITAL LETTER B" output="Ɓ"/>
+			<when state="LATIN CAPITAL LETTER C" output="Ƈ"/>
+			<when state="LATIN CAPITAL LETTER D" output="Ɗ"/>
+			<when state="LATIN CAPITAL LETTER F" output="Ƒ"/>
+			<when state="LATIN CAPITAL LETTER G" output="Ɠ"/>
+			<when state="LATIN CAPITAL LETTER K" output="Ƙ"/>
+			<when state="LATIN CAPITAL LETTER N" output="Ɲ"/>
+			<when state="LATIN CAPITAL LETTER P" output="Ƥ"/>
+			<when state="LATIN CAPITAL LETTER T" output="Ƭ"/>
+			<when state="LATIN CAPITAL LETTER V" output="Ʋ"/>
+			<when state="LATIN CAPITAL LETTER Y" output="Ƴ"/>
+			<when state="LATIN CAPITAL LETTER Z" output="Ȥ"/>
+			<when state="LATIN SMALL LETTER B" output="ɓ"/>
+			<when state="LATIN SMALL LETTER C" output="ƈ"/>
+			<when state="LATIN SMALL LETTER D" output="ɗ"/>
+			<when state="LATIN SMALL LETTER F" output="ƒ"/>
+			<when state="LATIN SMALL LETTER G" output="ɠ"/>
+			<when state="LATIN SMALL LETTER H" output="ɦ"/>
+			<when state="LATIN SMALL LETTER K" output="ƙ"/>
+			<when state="LATIN SMALL LETTER M" output="ɱ"/>
+			<when state="LATIN SMALL LETTER N" output="ɲ"/>
+			<when state="LATIN SMALL LETTER P" output="ƥ"/>
+			<when state="LATIN SMALL LETTER Q" output="ʠ"/>
+			<when state="LATIN SMALL LETTER S" output="ʂ"/>
+			<when state="LATIN SMALL LETTER T" output="ƭ"/>
+			<when state="LATIN SMALL LETTER V" output="ʋ"/>
+			<when state="LATIN SMALL LETTER Y" output="ƴ"/>
+			<when state="LATIN SMALL LETTER Z" output="ȥ"/>
+		</action>
+		<action id="“">
+			<when state="none" output="“"/>
+			<when state="LATIN CAPITAL LETTER D" output="Ɖ"/>
+			<when state="LATIN CAPITAL LETTER Q" output="Ɋ"/>
+			<when state="LATIN CAPITAL LETTER R" output="Ɽ"/>
+			<when state="LATIN SMALL LETTER D" output="ɖ"/>
+			<when state="LATIN SMALL LETTER Q" output="ɋ"/>
+			<when state="LATIN SMALL LETTER R" output="ɽ"/>
+			<when state="LATIN SMALL LETTER S" output="ȿ"/>
+			<when state="LATIN SMALL LETTER Z" output="ɀ"/>
+			<when state="NO-BREAK SPACE" output="̼"/>
+		</action>
+		<action id="”">
+			<when state="none" output="”"/>
+			<when state="LATIN CAPITAL LETTER N" output="Ƞ"/>
+			<when state="LATIN SMALL LETTER N" output="ƞ"/>
+			<when state="LATIN SMALL LETTER R" output="ɼ"/>
+			<when state="NO-BREAK SPACE" output="̫"/>
+		</action>
+		<action id="„">
+			<when state="none" output="„"/>
+			<when state="LATIN CAPITAL LETTER U" output="Ṳ"/>
+			<when state="LATIN SMALL LETTER U" output="ṳ"/>
+			<when state="NO-BREAK SPACE" output="̤"/>
+		</action>
+		<action id="•">
+			<when state="none" output="•"/>
+			<when state="LATIN CAPITAL LETTER E" output="Ḛ"/>
+			<when state="LATIN CAPITAL LETTER I" output="Ḭ"/>
+			<when state="LATIN CAPITAL LETTER U" output="Ṵ"/>
+			<when state="LATIN SMALL LETTER E" output="ḛ"/>
+			<when state="LATIN SMALL LETTER I" output="ḭ"/>
+			<when state="LATIN SMALL LETTER U" output="ṵ"/>
+			<when state="NO-BREAK SPACE" output="̰"/>
+		</action>
+		<action id="‹">
+			<when state="none" output="‹"/>
+			<when state="LATIN CAPITAL LETTER A" output="Ą"/>
+			<when state="LATIN CAPITAL LETTER E" output="Ę"/>
+			<when state="LATIN CAPITAL LETTER I" output="Į"/>
+			<when state="LATIN CAPITAL LETTER O" output="Ǫ"/>
+			<when state="LATIN CAPITAL LETTER U" output="Ų"/>
+			<when state="LATIN SMALL LETTER A" output="ą"/>
+			<when state="LATIN SMALL LETTER E" output="ę"/>
+			<when state="LATIN SMALL LETTER I" output="į"/>
+			<when state="LATIN SMALL LETTER O" output="ǫ"/>
+			<when state="LATIN SMALL LETTER U" output="ų"/>
+			<when state="NO-BREAK SPACE" output="̨"/>
+			<when state="SPACE" output="˛"/>
+		</action>
+		<action id="›">
+			<when state="none" output="›"/>
+			<when state="LATIN CAPITAL LETTER A" output="Ạ"/>
+			<when state="LATIN CAPITAL LETTER B" output="Ḅ"/>
+			<when state="LATIN CAPITAL LETTER D" output="Ḍ"/>
+			<when state="LATIN CAPITAL LETTER E" output="Ẹ"/>
+			<when state="LATIN CAPITAL LETTER H" output="Ḥ"/>
+			<when state="LATIN CAPITAL LETTER I" output="Ị"/>
+			<when state="LATIN CAPITAL LETTER K" output="Ḳ"/>
+			<when state="LATIN CAPITAL LETTER L" output="Ḷ"/>
+			<when state="LATIN CAPITAL LETTER M" output="Ṃ"/>
+			<when state="LATIN CAPITAL LETTER N" output="Ṇ"/>
+			<when state="LATIN CAPITAL LETTER O" output="Ọ"/>
+			<when state="LATIN CAPITAL LETTER R" output="Ṛ"/>
+			<when state="LATIN CAPITAL LETTER S" output="Ṣ"/>
+			<when state="LATIN CAPITAL LETTER T" output="Ṭ"/>
+			<when state="LATIN CAPITAL LETTER U" output="Ụ"/>
+			<when state="LATIN CAPITAL LETTER V" output="Ṿ"/>
+			<when state="LATIN CAPITAL LETTER W" output="Ẉ"/>
+			<when state="LATIN CAPITAL LETTER Y" output="Ỵ"/>
+			<when state="LATIN CAPITAL LETTER Z" output="Ẓ"/>
+			<when state="LATIN SMALL LETTER A" output="ạ"/>
+			<when state="LATIN SMALL LETTER B" output="ḅ"/>
+			<when state="LATIN SMALL LETTER D" output="ḍ"/>
+			<when state="LATIN SMALL LETTER E" output="ẹ"/>
+			<when state="LATIN SMALL LETTER H" output="ḥ"/>
+			<when state="LATIN SMALL LETTER I" output="ị"/>
+			<when state="LATIN SMALL LETTER K" output="ḳ"/>
+			<when state="LATIN SMALL LETTER L" output="ḷ"/>
+			<when state="LATIN SMALL LETTER M" output="ṃ"/>
+			<when state="LATIN SMALL LETTER N" output="ṇ"/>
+			<when state="LATIN SMALL LETTER O" output="ọ"/>
+			<when state="LATIN SMALL LETTER R" output="ṛ"/>
+			<when state="LATIN SMALL LETTER S" output="ṣ"/>
+			<when state="LATIN SMALL LETTER T" output="ṭ"/>
+			<when state="LATIN SMALL LETTER U" output="ụ"/>
+			<when state="LATIN SMALL LETTER V" output="ṿ"/>
+			<when state="LATIN SMALL LETTER W" output="ẉ"/>
+			<when state="LATIN SMALL LETTER Y" output="ỵ"/>
+			<when state="LATIN SMALL LETTER Z" output="ẓ"/>
+			<when state="NO-BREAK SPACE" output="̣"/>
+			<when state="SPACE" output="."/>
+		</action>
+	</actions>
+	<terminators>
+		<when state="ACUTE ACCENT" output="´"/>
+		<when state="AMPERSAND" output="&#x0026;"/>
+		<when state="ASTERISK" output="*"/>
+		<when state="BROKEN BAR" output="¦"/>
+		<when state="CIRCUMFLEX ACCENT" output="^"/>
+		<when state="CURRENCY SIGN" output="¤"/>
+		<when state="DIAERESIS" output="¨"/>
+		<when state="DIGIT EIGHT" output="8"/>
+		<when state="DIGIT FIVE" output="5"/>
+		<when state="DIGIT FOUR" output="4"/>
+		<when state="DIGIT NINE" output="9"/>
+		<when state="DIGIT ONE" output="1"/>
+		<when state="DIGIT SEVEN" output="7"/>
+		<when state="DIGIT SIX" output="6"/>
+		<when state="DIGIT THREE" output="3"/>
+		<when state="DIGIT TWO" output="2"/>
+		<when state="DIGIT ZERO" output="0"/>
+		<when state="DIVISION SIGN" output="÷"/>
+		<when state="DOLLAR SIGN" output="$"/>
+		<when state="EXCLAMATION MARK" output="!"/>
+		<when state="INVERTED EXCLAMATION MARK" output="¡"/>
+		<when state="LATIN CAPITAL LETTER A" output="A"/>
+		<when state="LATIN CAPITAL LETTER B" output="B"/>
+		<when state="LATIN CAPITAL LETTER C" output="C"/>
+		<when state="LATIN CAPITAL LETTER D" output="D"/>
+		<when state="LATIN CAPITAL LETTER E" output="E"/>
+		<when state="LATIN CAPITAL LETTER F" output="F"/>
+		<when state="LATIN CAPITAL LETTER G" output="G"/>
+		<when state="LATIN CAPITAL LETTER H" output="H"/>
+		<when state="LATIN CAPITAL LETTER I" output="I"/>
+		<when state="LATIN CAPITAL LETTER J" output="J"/>
+		<when state="LATIN CAPITAL LETTER K" output="K"/>
+		<when state="LATIN CAPITAL LETTER L" output="L"/>
+		<when state="LATIN CAPITAL LETTER M" output="M"/>
+		<when state="LATIN CAPITAL LETTER N" output="N"/>
+		<when state="LATIN CAPITAL LETTER O" output="O"/>
+		<when state="LATIN CAPITAL LETTER P" output="P"/>
+		<when state="LATIN CAPITAL LETTER Q" output="Q"/>
+		<when state="LATIN CAPITAL LETTER R" output="R"/>
+		<when state="LATIN CAPITAL LETTER S" output="S"/>
+		<when state="LATIN CAPITAL LETTER T" output="T"/>
+		<when state="LATIN CAPITAL LETTER U" output="U"/>
+		<when state="LATIN CAPITAL LETTER V" output="V"/>
+		<when state="LATIN CAPITAL LETTER W" output="W"/>
+		<when state="LATIN CAPITAL LETTER X" output="X"/>
+		<when state="LATIN CAPITAL LETTER Y" output="Y"/>
+		<when state="LATIN CAPITAL LETTER Z" output="Z"/>
+		<when state="LATIN SMALL LETTER A" output="a"/>
+		<when state="LATIN SMALL LETTER B" output="b"/>
+		<when state="LATIN SMALL LETTER C" output="c"/>
+		<when state="LATIN SMALL LETTER D" output="d"/>
+		<when state="LATIN SMALL LETTER E" output="e"/>
+		<when state="LATIN SMALL LETTER F" output="f"/>
+		<when state="LATIN SMALL LETTER G" output="g"/>
+		<when state="LATIN SMALL LETTER H" output="h"/>
+		<when state="LATIN SMALL LETTER I" output="i"/>
+		<when state="LATIN SMALL LETTER J" output="j"/>
+		<when state="LATIN SMALL LETTER K" output="k"/>
+		<when state="LATIN SMALL LETTER L" output="l"/>
+		<when state="LATIN SMALL LETTER M" output="m"/>
+		<when state="LATIN SMALL LETTER N" output="n"/>
+		<when state="LATIN SMALL LETTER O" output="o"/>
+		<when state="LATIN SMALL LETTER P" output="p"/>
+		<when state="LATIN SMALL LETTER Q" output="q"/>
+		<when state="LATIN SMALL LETTER R" output="r"/>
+		<when state="LATIN SMALL LETTER S" output="s"/>
+		<when state="LATIN SMALL LETTER T" output="t"/>
+		<when state="LATIN SMALL LETTER U" output="u"/>
+		<when state="LATIN SMALL LETTER V" output="v"/>
+		<when state="LATIN SMALL LETTER W" output="w"/>
+		<when state="LATIN SMALL LETTER X" output="x"/>
+		<when state="LATIN SMALL LETTER Y" output="y"/>
+		<when state="LATIN SMALL LETTER Z" output="z"/>
+		<when state="LEFT PARENTHESIS" output="("/>
+		<when state="MACRON" output="¯"/>
+		<when state="MULTIPLICATION SIGN" output="×"/>
+		<when state="NO-BREAK SPACE" output=" "/>
+		<when state="PERCENT SIGN" output="%"/>
+		<when state="PLUS-MINUS SIGN" output="±"/>
+		<when state="POUND SIGN" output="£"/>
+		<when state="QUOTATION MARK" output='"'/>
+		<when state="RIGHT PARENTHESIS" output=")"/>
+		<when state="SPACE" output=" "/>
+	</terminators>
+</keyboard>
+
